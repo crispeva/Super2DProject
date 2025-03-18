@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 3637ab04505a36f4ab24af66cd0e6982
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 464
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5701bfb38c4ec448a9aa463ec8393e
+      internalID: -57685330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcd2f1c112842a4b9e7deca075b6046
+      internalID: -1088229394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 436
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb8403f41121c47baaa7e2730b14ea
+      internalID: 1697706850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71539665243e8469e4cdb6408672a4
+      internalID: -66468549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 393
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc6e07063f905499625f513f0e8355
+      internalID: 1624181649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 394
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d388fab8bdfbc4d846bebf822f7a2d
+      internalID: 1833385673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 368
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbde402e80e7e4f841737a5751adb8
+      internalID: -1936756081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 345
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6b9f5838d52e4db89e09eaa1ab2a9
+      internalID: -603731236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 344
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37beb301bcb17aa4082d7527392f6e78
+      internalID: -1647028497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 345
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b89ea41cdd5374ea85b653f13468b3
+      internalID: -1749134435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 323
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f1bdf6d04437a478208cddff70f536
+      internalID: -1986138203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c382c9a97f43d641b1dc1f918ca6530
+      internalID: -663437965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 296
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21858551f578fe1468c68b23450f495a
+      internalID: 603583775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 296
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee8107badea6b4cb756d3302925964
+      internalID: -252105245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 296
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4b7aecfe8cd7140b0079642c6dfdc8
+      internalID: 1024677366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781007ed426ce48468c249adcf32ed28
+      internalID: 1919346317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 296
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1371abd8e8b5548bf372847ef1c8d7
+      internalID: -862333745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 297
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b597b6ea0a91d2542b0448ce3253c7e1
+      internalID: 1921500718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 313
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68ca97146d07f41a682d753677a462
+      internalID: -2106590240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b02702caf8f0428bc659ce547d308
+      internalID: 2105905499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 249
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a61c3e976ee3ad4fb5928eda67288a7
+      internalID: 1052602419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 247
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a3f3a411d467f4cb874bcb9e670772
+      internalID: 1624906414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fdf07df34a0045a7fb918f08f6c07
+      internalID: -1598346426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 253
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a34ba565bcb5438deb9ed48bc327a
+      internalID: 1443880782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93299341db266489e3c1d00fc819cf
+      internalID: -1927613293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 262
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf1f3c8fd302f4394f657735d3c52a
+      internalID: 590199476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6169d7795e30f64596f8c1bc4d8dc9d
+      internalID: -365890121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 196
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41d2eb53b05ab4abba6a8661527bf7
+      internalID: 1509854554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 196
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e938342bcdc94e4485117c8f47475c4
+      internalID: 1094954248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52c6f024a611e41a97b11b4426d4d9
+      internalID: -1629934731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595d8c3aff3f6c43a4535ad3e771306
+      internalID: 456758295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 216
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3bc80d0b45a4340ab550568bb65722
+      internalID: -1388968313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 199
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca3d8b568f2d340a967393e11264ce
+      internalID: 54069769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 195
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ddff54a39f6244b31ad31cd26ff8b
+      internalID: -2129828584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f52c04531388479fc4e570e11df1b
+      internalID: -867698248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 142
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54202b3ca62d614db3bb65ac94c7f59
+      internalID: 1508748478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 142
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894da38a8920b84fbe27340ff5e2066
+      internalID: 820872555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346756a24e306ac468c72a984f5af232
+      internalID: 541625561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 141
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9e051033a4afb458fbaa29b6a9dc67
+      internalID: 477333798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 89
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e359462d1dea9fd40a90a44293ecf7e6
+      internalID: 1681843734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 89
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef64b46cd2ae9408e81498be924b0f
+      internalID: 387136700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51dc0348929eb948b84992af8acb23a
+      internalID: 943033860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 54
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb518ed46c95f4a82ed277f8be3a1e
+      internalID: 1858693098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0747bb3dbf4c241b4615b5c4842109
+      internalID: -1525600416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan
+        2_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 10
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e249c511ef5e542bef61d74563de47
+      internalID: 1086160549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_0: -57685330
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_1: -1088229394
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_10: -1986138203
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_11: -663437965
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_12: 603583775
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_13: -252105245
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_14: 1024677366
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_15: 1919346317
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_16: -862333745
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_17: 1921500718
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_18: -2106590240
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_19: 2105905499
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_2: 1697706850
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_20: 1052602419
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_21: 1624906414
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_22: -1598346426
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_23: 1443880782
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_24: -1927613293
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_25: 590199476
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_26: -365890121
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_27: 1509854554
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_28: 1094954248
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_29: -1629934731
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_3: -66468549
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_30: 456758295
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_31: -1388968313
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_32: 54069769
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_33: -2129828584
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_34: -867698248
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_35: 1508748478
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_36: 820872555
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_37: 541625561
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_38: 477333798
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_39: 1681843734
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_4: 1624181649
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_40: 387136700
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_41: 943033860
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_42: 1858693098
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_43: -1525600416
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_44: 1086160549
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_5: 1833385673
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_6: -1936756081
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_7: -603731236
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_8: -1647028497
+      Game Boy GBC - Dragon Ball Z Legendary Super Warriors - Goku Super Saiyan 2_9: -1749134435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

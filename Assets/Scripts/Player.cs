@@ -10,18 +10,23 @@ public class Player : MonoBehaviour
 	#region Fields
 	[SerializeField] private Jetpack _jetpack;
 	private Animator _anim;
-	#endregion
+    private InputController _controller;
+    #endregion
 
-	#region Unity Callbacks
-	private void Awake()
+    #region Unity Callbacks
+    private void Awake()
 	{
 		_anim = GetComponent<Animator>();
-	}
+        _controller = GetComponent<InputController>();
+
+    }
 
     // Update is called once per frame
     void Update()
     {
 		_anim.SetBool("Flying", _jetpack.Flying);
+		_anim.SetBool("RunLeft", _controller.ControllPlayerLeft());
+		_anim.SetBool("RunRight", _controller.ControllPlayerRight());
     }
 	#endregion
 
