@@ -123,6 +123,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &40357275
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 93.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1 &43010968
 GameObject:
   m_ObjectHideFlags: 0
@@ -159,6 +216,68 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!4 &55688979 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+  m_PrefabInstance: {fileID: 881186819}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &197022993
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 37.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1 &329891163
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,6 +397,621 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &410561519
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 55.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &428985915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 69.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &474591413
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 42.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &489279642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 89.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &597178766
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 107.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!4 &766272666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+  m_PrefabInstance: {fileID: 4961373947567016205}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767596411
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 49.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &780879353
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &799333703
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 101.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &838190209
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 109.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &881186819
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 954545431}
+    m_Modifications:
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_FalloffIntensity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_PointLightOuterAngle
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_PointLightInnerRadius
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483172213471140827, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5028521362959210844, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_Name
+      value: Light Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.52365583
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.85192996
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6428172152963361490, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -116.844
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f41d9e491399f541bc8ca14d8f1ba69, type: 3}
 --- !u!114 &954545429 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6202818291053993745, guid: e19846a3a39bd9842848bcd150224841, type: 3}
@@ -304,6 +1038,11 @@ MonoBehaviour:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
   m_PrefabInstance: {fileID: 1141584085}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &969314082 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1600489456190640066, guid: 08acb4b6a3f9e604faa7bd3b268da1a0, type: 3}
+  m_PrefabInstance: {fileID: 3443976189414277763}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1141584085
 PrefabInstance:
@@ -339,7 +1078,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.2338
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalPosition.y
@@ -351,19 +1090,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.99998325
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0057946206
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -375,7 +1114,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0.664
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3574023175227339799, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: _player
@@ -412,6 +1151,14 @@ PrefabInstance:
     - target: {fileID: 5229819850073432425, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -91.412
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673620376518725302, guid: e19846a3a39bd9842848bcd150224841, type: 3}
+      propertyPath: m_Size.x
+      value: 0.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673620376518725302, guid: e19846a3a39bd9842848bcd150224841, type: 3}
+      propertyPath: m_Size.y
+      value: 0.41
       objectReference: {fileID: 0}
     - target: {fileID: 6673620376518725302, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       propertyPath: m_Sprite
@@ -452,6 +1199,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1406461476}
+    - targetCorrespondingSourceObject: {fileID: 3032442121949320817, guid: e19846a3a39bd9842848bcd150224841, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 55688979}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e19846a3a39bd9842848bcd150224841, type: 3}
 --- !u!1 &1201366215
@@ -821,6 +1571,63 @@ RectTransform:
   m_AnchoredPosition: {x: -160.88, y: -16.5}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1257204476
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 62.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1 &1406461475
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,6 +1734,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1447342170
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1 &1544386087
 GameObject:
   m_ObjectHideFlags: 0
@@ -1143,6 +2007,63 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a904f664b2dc420478d5d713918e2a47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1993898665
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 76.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1 &2091793338
 GameObject:
   m_ObjectHideFlags: 0
@@ -1178,6 +2099,120 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &2140573350
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 21.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+--- !u!1001 &2141183736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 83.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1001 &3443976189414277763
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47716,9 +48751,69 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: f8515184fdd8a3a498cf95ff707c934e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1600489456190640066, guid: 08acb4b6a3f9e604faa7bd3b268da1a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 766272666}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08acb4b6a3f9e604faa7bd3b268da1a0, type: 3}
+--- !u!1001 &4961373947567016205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 969314082}
+    m_Modifications:
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183922701391451186, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900970587613947606, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
+      propertyPath: m_Name
+      value: gokuGenki
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6d8a4d26d81c6744ba8353c274fd046, type: 3}
 --- !u!1001 &8493417650746036783
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47741,7 +48836,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3086938199505531938, guid: 768d48f72fdcc0046994b6d420792d3d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.2338
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3086938199505531938, guid: 768d48f72fdcc0046994b6d420792d3d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -47818,3 +48913,19 @@ SceneRoots:
   - {fileID: 329891168}
   - {fileID: 1213012444}
   - {fileID: 1141584085}
+  - {fileID: 780879353}
+  - {fileID: 2140573350}
+  - {fileID: 1447342170}
+  - {fileID: 197022993}
+  - {fileID: 474591413}
+  - {fileID: 767596411}
+  - {fileID: 410561519}
+  - {fileID: 428985915}
+  - {fileID: 1257204476}
+  - {fileID: 1993898665}
+  - {fileID: 2141183736}
+  - {fileID: 489279642}
+  - {fileID: 40357275}
+  - {fileID: 799333703}
+  - {fileID: 597178766}
+  - {fileID: 838190209}
