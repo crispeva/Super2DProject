@@ -4836,7 +4836,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1c4a60a5b8448684a97d51a818bae320, type: 2}
+  - {fileID: 2100000, guid: 5b4b2890adc8b6b4d912bb622655d7b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4897,7 +4897,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 68fdcd84cf72f2e47aceaf614a90b2d9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d0b9f16d5b2d96744aea4c65c139ac07, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1

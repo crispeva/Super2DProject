@@ -7,9 +7,10 @@ public class Item : MonoBehaviour, IRecolectable
 	public enum ItemTypes
 	{
 		None,
-		NoSe,
-		ErrorCode,
-		PositiveWords
+		GoodBall,
+		BadBall,
+		GoodEnergy,
+		BadEnergy
 	}
 	#endregion
 
@@ -27,10 +28,15 @@ public class Item : MonoBehaviour, IRecolectable
 		Destroy(gameObject);
 		CreateParticles();
 	}
-	#endregion
+    public virtual void DestroyInGround()
+    {
+        Destroy(gameObject);
+        
+    }
+    #endregion
 
-	#region Private Methods
-	private void CreateParticles()
+    #region Private Methods
+    private void CreateParticles()
 	{
 		Instantiate(_particles, transform.position, Quaternion.identity);
 	}

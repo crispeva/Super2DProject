@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 9a4c300e6296aba48948df4340c83282
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 377
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a5384c3f5f9640bba7bb0c301a739
+      internalID: 453159802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 377
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129139d7362f18242b38b5b3adbc8fdf
+      internalID: -1239104082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 377
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5d99e73e841746abf2b97d69b8e70
+      internalID: -330922488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb252f4619f1e574093e90b93f7b7f63
+      internalID: -1204497071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 323
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d87feca40378447a310b72e086b627
+      internalID: 414007867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 326
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8657e372562cf418274f7a39d39511
+      internalID: 539619968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ed0eb939294e4588bfde11da926f2
+      internalID: -854687033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 271
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570076a7645b7684cacd90b8e79ca267
+      internalID: -518254011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 271
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91940d70ae0b34aad1928f53cb219c
+      internalID: -642549450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2020b817357e8479ad4c50573a115f
+      internalID: -1164774881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 220
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c387fc1b3da741a190ad295fa1aed
+      internalID: -713650453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 219
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2319759a40673054fb5b653845f11937
+      internalID: 1120039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a766ca85ab26b54896b1869e9188f9d
+      internalID: -158494721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 220
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43ff896a9330d40987220c8a4814f3
+      internalID: 1287283162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 219
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c900dd152d024ba96788e6309fc85
+      internalID: 402121178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 223
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10ece47b9172647ba58eca4513db75
+      internalID: -633738589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 167
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb15cd3c4c6180498a16f9096691270
+      internalID: 2053797589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 166
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a0dc6cd7bd56b4f8b7758d946b2c1a
+      internalID: -1448329106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 166
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87dd9c3dbb2bc44da3d5fd7460c4fdc
+      internalID: 558053663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 171
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78897ae3112404d4f898ac19d84bf340
+      internalID: -113431580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 115
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2550922ab12442b01c4949c08df34
+      internalID: 573505444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213a5efb7beb5941958bffe9bf75b00
+      internalID: 1557899746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908094a6c1b92d7429c46af952558d12
+      internalID: -1635049794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 114
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79ae674af6d4e4086e391ae5b02066
+      internalID: 1937857897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 116
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa07d8b4a6cb0d49b10c654b31da30d
+      internalID: 595766619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5685c48c7f0b43a5a4305c890d574
+      internalID: -26398950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9633a7aab55749a156576dc886fb1
+      internalID: 856723513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 62
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f0c98cccec71141a8d82692ca99fb1
+      internalID: -1834201299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5a4f05222a16a468bef26d975b8021
+      internalID: 1716382137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 61
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9aa7a082638e3439930e91b1bd607d
+      internalID: 434329290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 61
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5125f4cefe0714280cdad39e638f16
+      internalID: 1880028951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90bdb24543b2b641b054d7d9bdde4f0
+      internalID: 737239968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a31085fb685e144ea7b252e70309878
+      internalID: -454420697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2fcf84a7d53ef4583697ba63b18edc
+      internalID: -936433523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecb69447d83c64288d5170f06bed20
+      internalID: -1407451452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style
+        1_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad59b446513685f4c8d08b32646b86c4
+      internalID: 2030229421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_0: 453159802
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_1: -1239104082
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_10: -713650453
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_11: 1120039457
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_12: -158494721
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_13: 1287283162
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_14: 402121178
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_15: -633738589
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_16: 2053797589
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_17: -1448329106
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_18: 558053663
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_19: -113431580
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_2: -330922488
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_20: 573505444
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_21: 1557899746
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_22: -1635049794
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_23: 1937857897
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_24: 595766619
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_25: -26398950
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_26: 856723513
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_27: -1834201299
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_28: 1716382137
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_29: 434329290
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_3: -1204497071
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_30: 1880028951
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_31: 737239968
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_32: -454420697
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_33: -936433523
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_34: -1407451452
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_35: 2030229421
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_4: 414007867
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_5: 539619968
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_6: -854687033
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_7: -518254011
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_8: -642549450
+      Custom Edited - Dragon Ball Customs - Goku Black Legendary Super Warriors-Style 1_9: -1164774881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

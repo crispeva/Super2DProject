@@ -77,9 +77,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7270445913172318630, guid: ae9890d08afd0484fb01105e534cffda, type: 3}
-      insertIndex: 1
-      addedObject: {fileID: 2784046645514791758}
-    - targetCorrespondingSourceObject: {fileID: 7270445913172318630, guid: ae9890d08afd0484fb01105e534cffda, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8633633462113399590}
     - targetCorrespondingSourceObject: {fileID: 7270445913172318630, guid: ae9890d08afd0484fb01105e534cffda, type: 3}
@@ -91,20 +88,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7270445913172318630, guid: ae9890d08afd0484fb01105e534cffda, type: 3}
   m_PrefabInstance: {fileID: 5016419483701467039}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2784046645514791758
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2411738042039291449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0927f2d405a6a9f458212f6a1ca9c090, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  <Type>k__BackingField: 1
-  _particles: {fileID: 547364853525835710, guid: 646716c229e30f748ba095f44010fe77, type: 3}
 --- !u!58 &8633633462113399590
 CircleCollider2D:
   m_ObjectHideFlags: 0
