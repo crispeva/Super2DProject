@@ -20,14 +20,28 @@ public class Item : MonoBehaviour, IRecolectable
 
 	#region Fields
 	[SerializeField] private GameObject _particles;
-	#endregion
-
-	#region Public Methods
-	public virtual void Recolected()
+	private Player _player;
+    #endregion
+    #region Unity Callbacks
+    private void Awake()
+    {
+        _player = FindObjectOfType<Player>();
+    }
+    #endregion
+    #region Public Methods
+    public virtual void BadRecolected()
 	{
 		Destroy(gameObject);
 		CreateParticles();
-	}
+        _player.TakeHit();
+
+
+    }
+    public virtual void GoodRecolected()
+    {
+        Destroy(gameObject);
+        CreateParticles();
+    }
     public virtual void DestroyInGround()
     {
         Destroy(gameObject);

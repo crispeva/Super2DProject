@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
 
 	#region Fields
 	[SerializeField] private Jetpack _jetpack;
-	private Animator _anim;
+    private Animator _anim;
     private InputController _controller;
     #endregion
 
@@ -31,6 +31,10 @@ public class Player : MonoBehaviour
 	#endregion
 
 	#region Public Methods
+	public void TakeHit()
+	{
+        _anim.SetTrigger("Hit");
+    }
 	#endregion
 
 	#region Private Methods

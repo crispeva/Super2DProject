@@ -1,5 +1,6 @@
 
 public interface IRecolectable 
 {
-    public void Recolected();
+    public void BadRecolected();
+    public void GoodRecolected();
 }

@@ -16,7 +16,7 @@ public class ItemNose : Item
 		{
 			Jetpack jetpack = collision.gameObject.GetComponent<Jetpack>();			
 			jetpack.AddEnergy(NOSE_DAMAGE);
-			Recolected();
+			BadRecolected();
 		}
 	}
 	#endregion

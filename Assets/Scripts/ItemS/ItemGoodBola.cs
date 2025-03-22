@@ -17,7 +17,7 @@ public class ItemGoodBola : Item
 		{
 			Jetpack jetpack = collision.gameObject.GetComponent<Jetpack>();			
 			jetpack.AddEnergy(POSITIVE_HEAL);
-			Recolected();
+			GoodRecolected();
 		}
 	}
 	#endregion
