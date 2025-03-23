@@ -51,7 +51,7 @@ public class InputController : MonoBehaviour
     #region Public Methods
     public bool ControllPlayerLeft()
     {
-        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
         {
             _player.transform.Translate(Vector3.left * Time.deltaTime * _velocityPlayer);
             return true;
@@ -62,7 +62,7 @@ public class InputController : MonoBehaviour
     }
     public bool ControllPlayerRight()
     {
-        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
             _player.transform.Translate(Vector3.right * Time.deltaTime * _velocityPlayer);
             return true;

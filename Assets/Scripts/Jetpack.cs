@@ -23,10 +23,11 @@ public class Jetpack : MonoBehaviour
 		}
 	}
 	public bool Flying { get; set; }
-	#endregion
+    public bool FlyingLeft { get; set; }
+    #endregion
 
-	#region Fields							     
-	private Rigidbody2D _targetRB;
+    #region Fields							     
+    private Rigidbody2D _targetRB;
 	[SerializeField] private float _energy;
 	[SerializeField] private float _maxEnergy;
 	[SerializeField] private float _energyFlyingRatio;
@@ -87,9 +88,16 @@ public class Jetpack : MonoBehaviour
 			return;
 
 		if (flyDirection == Direction.Left)
-			_targetRB.AddForce(Vector2.left * _horizontalForce);
+		{
+            _targetRB.AddForce(Vector2.left * _horizontalForce);
+            FlyingLeft = true;
+        }
 		else
-			_targetRB.AddForce(Vector2.right * _horizontalForce);
+		{
+            _targetRB.AddForce(Vector2.right * _horizontalForce);
+            FlyingLeft = false;
+        }
+			
 
 	}
 	#endregion
