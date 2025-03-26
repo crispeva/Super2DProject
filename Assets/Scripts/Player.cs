@@ -27,6 +27,7 @@ public class Player : MonoBehaviour
 		_anim.SetBool("Flying", _jetpack.Flying);
         _anim.SetBool("FlyingLeft", _jetpack.FlyingLeft);
         _anim.SetBool("RunLeft", _controller.ControllPlayerLeft());
+        _anim.SetBool("RunRight", _controller.ControllPlayerRight());
     }
 	#endregion
 

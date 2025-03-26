@@ -1,0 +1,4040 @@
+fileFormatVersion: 2
+guid: de5181a528730d5408b778cc20b13a04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 980
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c877a219f6c6804384355fddf4ba723
+      internalID: -900715425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1080
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222077a373aa5743984f50d1264b477
+      internalID: -813808433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4238b22e57d924ea54875f80553e58
+      internalID: -1062323845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8afac5ea3cb8c41aa6913993505f0e
+      internalID: -899536951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b041615db8694c88151b7543aa6d0
+      internalID: -2038094855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5f53681888014486e13c3c4ababc0
+      internalID: -1859607925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b44ab4342b01d47a0f940c1cd868d3
+      internalID: -1166451071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369ee56e8c96684e87ad6a4a1d428c0
+      internalID: -5842496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb7437c26615d4589f83c7aa36f697
+      internalID: -1974364401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6556ba290e9df4cb7cdae12251149a
+      internalID: 1860517404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b99ab6ab41a147bb5f7586718ae86
+      internalID: 217324739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_11
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969f4a12d3202a4ab7ee9ba3df05a1a
+      internalID: 1317945151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_12
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 980
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662186207de4e942b4ec8fab724362f
+      internalID: 1788631760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 972
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319f14322c6250545bc20fcea8364f34
+      internalID: 992110014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 972
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77521111371d5e9438bac3527092504b
+      internalID: 60357080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_15
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 980
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd571daad8e374283b0bea0f0902c8
+      internalID: -599080275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_16
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 981
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b948e005482cc4a87e68429cdc2e3a
+      internalID: 715314307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_17
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 983
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719fec67e5dc30642a261be7c95b44cc
+      internalID: 1171223339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_18
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 982
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eabeddd6eb56b43bf9cf7598b9a80a
+      internalID: 341664439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_19
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 982
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a00870db04173148a66bd6f47590635
+      internalID: 1758933174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_20
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 982
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1fd6841990174f9f8e2b7d7024f87
+      internalID: -1821277114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabe4768409c8445829c2b822b9b91a
+      internalID: 1635571570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637df0a5b39ad24c86e35b4d169e77d
+      internalID: 739247443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9fe84d52d00f447a3561af5992f8ac
+      internalID: -1604604184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d50e937f183704db9c97282eee9cf8
+      internalID: 624876951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 866
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec1df941c1fda4393d522c4252f790
+      internalID: 222588249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 866
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba971f96397e244297f63e80e5d5723
+      internalID: -9786321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 866
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3a902f12428b4e96c953e5d85a482
+      internalID: -1566887118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 866
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931f8a980f818b4f90cee6ebbe693f9
+      internalID: 71251766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631dee6ace82694faa143c3342e9d2d
+      internalID: 1057672470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_30
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075f16670a43da49a44c9dea2aa9b69
+      internalID: -1722995232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_31
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef420ceac144e346887e41c975cf6be
+      internalID: -221724896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e74773a22c02e4d9a261624435fc9e
+      internalID: 2027268442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_33
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c555065bf6e34480372b7e06d39fc
+      internalID: 1468893296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_34
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81cc4b669bb0b46adcac2d7fd397e9
+      internalID: 362391846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_35
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 877
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d4d23a1c358c0408b835606d852cce
+      internalID: 2071865425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_36
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 876
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5212c10ae177d647bd64e0c260d661b
+      internalID: -1664665016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_37
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 876
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75644ffa8bac441ab4d13d8fbb9f92
+      internalID: 1483979833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_38
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 876
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705976695ee8a364f8db16110a11219d
+      internalID: -986614859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_39
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 876
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d22e6c1875a2ea4dacfad0366788ffe
+      internalID: 593561204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_40
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c7b0095e4f35469721d9b895f285c
+      internalID: 547035519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 866
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2567b13d00ec54ead4572fe46692de
+      internalID: -1156328613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_42
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 865
+        width: 76
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf37b2151656a4bbfdfc4ee7e5b55c
+      internalID: 810312058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_43
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 857
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0a3149e09da847bf4af1c8ea99165
+      internalID: 1277557294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_44
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 857
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c96891b840a07d44945ba88407e197e
+      internalID: -1555790909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_45
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 857
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda50065d6aa5043b5a105a85fb5e6b
+      internalID: 1747018762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 766
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a75d706c6b2c344a00a56c1d891889
+      internalID: -2060249894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787f287e909198489ae52c2b696b246
+      internalID: -779334585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15f66b3f1dd01546a03251657bbb5a3
+      internalID: -1679434890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c887fb7525816c4bb870f11d6f40836
+      internalID: 1638634446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda1971fb6d984b48a47092afee94e5a
+      internalID: -1234926603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb808de6cdc2c04db1f7fde882dbe02
+      internalID: -981980123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 774
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c80e0cf81775a4d8e461ec0aec7019
+      internalID: -1797189635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_53
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 774
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941aa2a1c60b8748a54935d0f6755f4
+      internalID: -1670055676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_54
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025e0e8893528640bf9198348c9339f
+      internalID: 1762055148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028303d3ff345674d9754c6815ca925a
+      internalID: -219089625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_56
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01ed58f7abbfd4b936182674014d1d
+      internalID: 881086717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_57
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b51221459d58418d9a3eecbeb1f5a
+      internalID: -508956850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_58
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 774
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22265e5015b0940a6ab41dabcebd04
+      internalID: -1387242297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_59
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 776
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b2f345d3d00848bf62cec40a57f5e
+      internalID: 335394524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_60
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 777
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a8272109b59a429aab08d23387b1b
+      internalID: -1767730239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_61
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 776
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74035c6ab1b26147a8d48a2c3529e6a
+      internalID: -1897358407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_62
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 857
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873764793c3eb924a82966a3364d8841
+      internalID: -711215118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 766
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25778a57d8e056846a4cb1112918ae44
+      internalID: 1138580395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5252759e3bfee24ab0e75011a7f294f
+      internalID: -147908916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 650
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd427ca19a603574e8fb98b2a0f64bf2
+      internalID: 327717498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150253a276393604d9f6da6bf6633b01
+      internalID: -2008084340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_67
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 658
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c59c18f20336448f6ed02fd2264a3
+      internalID: -1959197386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 658
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4711aed70d9d54193bd829996c3ae1
+      internalID: 1275256216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_69
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e878cacaa72b440bf4dabf75e33e8c
+      internalID: -971813297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943e8bce3c9aec42a95f9bffb65bb51
+      internalID: -4363588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_71
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f087e6a5e4ba594ba62360bbbda6523
+      internalID: -402886952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_72
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9c07528ee7a24b87ad414330bbec1
+      internalID: 555409747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_73
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231e6bad5eb1df4eadf5129a67808f3
+      internalID: 1447489147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_74
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5da5ab80ebc049aadd17af0bdc744
+      internalID: 267658295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_75
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783ee22b2137434bbef81e07e0aa97c
+      internalID: 964190951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_76
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6147279b417a47be21e974be2175a
+      internalID: 677347209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_77
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f64f3675f90eb4bbc2b0bae0e08bd8
+      internalID: -1153716189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_78
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c532e13cf99e4986ead49c7128093
+      internalID: 542529256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6407763cd84cc704e822833036bd35e3
+      internalID: 616586998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_80
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 666
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56746a19137d41a449b7c2139d320811
+      internalID: 1619918893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c8e41414caed4b9c2ef9e9d03faaf
+      internalID: 275397062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a384e6222e44409ab4e5149026528
+      internalID: -1971725301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 539
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033fc0ed52080794fbc5149763685d8e
+      internalID: -1284530016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6296c6621eb27754eb560d282dfcd0cb
+      internalID: 508391819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_85
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bde01663ad881448722f6881127b5f
+      internalID: 1566787938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_86
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7e4faf6ef59d409a81742b92908cc
+      internalID: -1612269166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_87
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303dbbe14f046c46a641c043f2b3b66
+      internalID: -2012782070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_88
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181b4bb12733b24ea95f9da6ca61a4d
+      internalID: 1986456517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_89
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7825d3b1f4284aa701d77dcbc9d36
+      internalID: -38742226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_90
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701be2430f4edd24cb47c64d787406cf
+      internalID: 1198748144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_91
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce208237116430a47974abf4f674d6b6
+      internalID: -189060375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_92
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dddae59fad9bc42b9817c763b145a5
+      internalID: 397025705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_93
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613491f5e10e4da43b503fa42d41dce9
+      internalID: 966472005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_94
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 539
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e588dd7612aec3f46893b2fe44fd1ef6
+      internalID: 73655901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_95
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 531
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d032ffaeac5c6146a3813b5622a7c75
+      internalID: 1364467319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_96
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 531
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51920bb69d53544a825f2ccec32934
+      internalID: 595551868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_97
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 531
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8374da9837faa499a7aa690d66ac33
+      internalID: -1013073344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_98
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 531
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f86a56ff21635246bfe55c1d6d2859d
+      internalID: -494244031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fbabe1b167741409d9c02f7b6e8db8
+      internalID: 1013390225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531786f646c0aa4abb144a2393dbf56
+      internalID: 680663531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_101
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27584295ed978469f29e2174b21762
+      internalID: -1750792179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb66a71bb2992e40be817cf781d6d9b
+      internalID: 932562975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_103
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c0abaf220d4e4a9f08fe2922961bb
+      internalID: 853129502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474bf06a932ced479fa0a1aa49fb4e4
+      internalID: 1314528161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_105
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9b399be4127740adc33a13e33fa3c
+      internalID: -961460706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b461b0fcb7aaf44c9bf0079c7a99ba3
+      internalID: 635794246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_107
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601873c6c0f30843b19f2f24e5fe679
+      internalID: -906161243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_108
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 431
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95365f6a9111a8546a370a96b7547efb
+      internalID: -793381831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00a96314e34b14698ebab011885409
+      internalID: -1096581155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da1dd5154c05cd4393e953996d56bbc
+      internalID: 756266984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_111
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 312
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8da8d7a1bde24b9af331ba8539b89
+      internalID: -1177153974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_112
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd984ad3a97ec24aae4f85afda16877
+      internalID: -208481495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_113
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a187c682583ce2a409be8c5f27065d0e
+      internalID: -427722675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_114
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1895899d1eaae3e429765f5024f530b3
+      internalID: 414216916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_115
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f10faee3518a489439030e405b96f
+      internalID: 778944186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da42aa585dac346941475268eacdf5
+      internalID: 503360097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_117
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49984f17f1f173f48a613adbcde97f94
+      internalID: -17423145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_118
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737fc6c4c2556946b432c2452dbdca9
+      internalID: -1134718766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_119
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4779b7fb08cf4e8d0fc2de0051d7e
+      internalID: 48288206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_120
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632511ab204c87546a9570db385eb516
+      internalID: -963691615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_121
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e0a3f3e2298a4dbf7206ea741a4ff
+      internalID: -2121664766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_122
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 312
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e52fc1faf484549849b5b30fbca0a4
+      internalID: -267133049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_123
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 304
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4b7e7aaf16e2488fb10577346b050
+      internalID: 825702933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_124
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 304
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19fe68fe1bfe804a85a8915a362dbdd
+      internalID: -445248080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_125
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 304
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9282b40f06c1419bb8eca98b00f59
+      internalID: 59949403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_126
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 304
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f6f0b62104c6429835927f98d66ad
+      internalID: 754805250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabbc2190766b2541baa639d705c6f40
+      internalID: -1336989224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_128
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9750de50aa26b45ab9a07af1e8518b
+      internalID: 570596699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_129
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361733ea394d4044a34f4a3b49c2147
+      internalID: 1627565582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81aa33e11660a549b48deeae008c08b
+      internalID: -540593800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_131
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e4ea683758710488bea9b043b4c7a2
+      internalID: -944304729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_132
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 207
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb182e880618be645b485d658ffe2cd7
+      internalID: 456215778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_133
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 207
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b92767018d834caa079d01d7332a1
+      internalID: -572129100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_134
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127aedabb7d1d4243b8f467967682e9f
+      internalID: -1691023873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_135
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5fa0f5ce34564896a82f1e588a687
+      internalID: 1981656846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_136
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5ecbc80ef5914ca6f0ac437be4c62
+      internalID: 153545540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_137
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c84ea78b9a94d42a7bca547da055d7
+      internalID: -498067566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_138
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424fe72e026cf454fbc314c726cc6643
+      internalID: 402053885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_139
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d604411a848b489d58895dd03032f
+      internalID: 1429968203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_140
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439068b57d67cec44bf7c919a457a0cd
+      internalID: 342420301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_141
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eed1d522df6f64d8b73f0e5afb4e6c
+      internalID: 2043661491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_142
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe039ea367aa19e4b94716bccd9a091b
+      internalID: -2130858338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_143
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 215
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27631543d0a22c849ac2ffd47bf4c88c
+      internalID: 1371491901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14092d88048bc4b88ee165bc0a5f76
+      internalID: -558794189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b7319a74d92f498e3235cee96bf4e
+      internalID: 1329046014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_146
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6d559b7cb00443b96c82b7a95b23c
+      internalID: -662922553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_147
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53bde042ed499c429491f578f2921ac
+      internalID: -2142774666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_148
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e7805d2d3d0843bcca20a2705e23f
+      internalID: 93552978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_149
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3a78bd70773943930004861b50115
+      internalID: 1536015722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_150
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73969cb22d69b294d8d4bc9593a849bb
+      internalID: 450187281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_151
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338435231f250be449c75fefc6fdb46c
+      internalID: 1861312926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_152
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 118
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ba4062a91aa94f88fe85b2642c4e4
+      internalID: 788899240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_153
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1
+        width: 403
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf030f572728646ba8feab9b36465f
+      internalID: -297058465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365dc28d769ece428b2cf32a49444a1
+      internalID: -1103322066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_155
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be474d1a7cfd61247ab4663ed412bdec
+      internalID: -464566866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_156
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa33a7ccdc83c49b70c2b2f585246b
+      internalID: -173282129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_157
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e78ed29cdf9944a5b9fb52406aea5
+      internalID: -409774688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_158
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d445cbc7c0178344abfeb07e6459a4b
+      internalID: 2124077001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_159
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f087081a554681e4c97e52eabba1c42a
+      internalID: 615808289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_160
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223a97000b61b844bb2363110806f92f
+      internalID: 563976933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_161
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0322c6696f9bd4f804beef7900dcbf
+      internalID: -1912975471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_162
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3af59923f80bc48ac889ce240ec048
+      internalID: -1773676113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_163
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89add57e723fe44c8d456ea2b5f5566
+      internalID: 969621641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_164
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578d587ab4c0e341b1b012384b5bc7c
+      internalID: -403987190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_165
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee6f60a60766b418ee12fb99965983
+      internalID: 1972855175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_166
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd577dc440b4642b95b8852adcb989
+      internalID: -567829879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_167
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f23ed40b7ffd944b4801c558f3e672
+      internalID: 1872026522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional
+        Portal_168
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 9
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13d6b686886c54f86dc4566fa101b7
+      internalID: -843329919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_0: -900715425
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_1: -813808433
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_10: 217324739
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_100: 680663531
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_101: -1750792179
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_102: 932562975
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_103: 853129502
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_104: 1314528161
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_105: -961460706
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_106: 635794246
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_107: -906161243
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_108: -793381831
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_109: -1096581155
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_11: 1317945151
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_110: 756266984
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_111: -1177153974
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_112: -208481495
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_113: -427722675
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_114: 414216916
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_115: 778944186
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_116: 503360097
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_117: -17423145
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_118: -1134718766
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_119: 48288206
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_12: 1788631760
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_120: -963691615
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_121: -2121664766
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_122: -267133049
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_123: 825702933
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_124: -445248080
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_125: 59949403
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_126: 754805250
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_127: -1336989224
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_128: 570596699
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_129: 1627565582
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_13: 992110014
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_130: -540593800
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_131: -944304729
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_132: 456215778
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_133: -572129100
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_134: -1691023873
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_135: 1981656846
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_136: 153545540
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_137: -498067566
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_138: 402053885
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_139: 1429968203
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_14: 60357080
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_140: 342420301
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_141: 2043661491
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_142: -2130858338
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_143: 1371491901
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_144: -558794189
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_145: 1329046014
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_146: -662922553
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_147: -2142774666
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_148: 93552978
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_149: 1536015722
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_15: -599080275
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_150: 450187281
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_151: 1861312926
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_152: 788899240
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_153: -297058465
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_154: -1103322066
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_155: -464566866
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_156: -173282129
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_157: -409774688
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_158: 2124077001
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_159: 615808289
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_16: 715314307
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_160: 563976933
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_161: -1912975471
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_162: -1773676113
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_163: 969621641
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_164: -403987190
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_165: 1972855175
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_166: -567829879
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_167: 1872026522
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_168: -843329919
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_17: 1171223339
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_18: 341664439
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_19: 1758933174
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_2: -1062323845
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_20: -1821277114
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_21: 1635571570
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_22: 739247443
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_23: -1604604184
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_24: 624876951
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_25: 222588249
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_26: -9786321
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_27: -1566887118
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_28: 71251766
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_29: 1057672470
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_3: -899536951
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_30: -1722995232
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_31: -221724896
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_32: 2027268442
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_33: 1468893296
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_34: 362391846
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_35: 2071865425
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_36: -1664665016
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_37: 1483979833
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_38: -986614859
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_39: 593561204
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_4: -2038094855
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_40: 547035519
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_41: -1156328613
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_42: 810312058
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_43: 1277557294
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_44: -1555790909
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_45: 1747018762
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_46: -2060249894
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_47: -779334585
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_48: -1679434890
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_49: 1638634446
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_5: -1859607925
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_50: -1234926603
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_51: -981980123
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_52: -1797189635
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_53: -1670055676
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_54: 1762055148
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_55: -219089625
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_56: 881086717
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_57: -508956850
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_58: -1387242297
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_59: 335394524
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_6: -1166451071
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_60: -1767730239
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_61: -1897358407
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_62: -711215118
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_63: 1138580395
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_64: -147908916
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_65: 327717498
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_66: -2008084340
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_67: -1959197386
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_68: 1275256216
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_69: -971813297
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_7: -5842496
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_70: -4363588
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_71: -402886952
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_72: 555409747
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_73: 1447489147
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_74: 267658295
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_75: 964190951
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_76: 677347209
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_77: -1153716189
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_78: 542529256
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_79: 616586998
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_8: -1974364401
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_80: 1619918893
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_81: 275397062
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_82: -1971725301
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_83: -1284530016
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_84: 508391819
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_85: 1566787938
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_86: -1612269166
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_87: -2012782070
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_88: 1986456517
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_89: -38742226
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_9: 1860517404
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_90: 1198748144
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_91: -189060375
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_92: 397025705
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_93: 966472005
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_94: 73655901
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_95: 1364467319
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_96: 595551868
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_97: -1013073344
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_98: -494244031
+      PC Computer - Teenage Mutant Ninja Turtles Shredders Revenge - Dimensional Portal_99: 1013390225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

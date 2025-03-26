@@ -1,0 +1,4223 @@
+fileFormatVersion: 2
+guid: 68805455d3c2a004a8fbf2df258e78f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1569
+        width: 73
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d8b0ed44a80094399ef47137e066c0
+      internalID: -945380268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1571
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55c83e08109c246bd2b722014a25d8
+      internalID: 341950365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1569
+        width: 74
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd400b3607f9ae4bae3e8e415981741
+      internalID: 1218029937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1569
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc6183b6eddbb4b90f1e9bc887691a
+      internalID: -1951891123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1571
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8751d1f0cb26418109f617132c817
+      internalID: 1386986865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1571
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba8e78da7f0d04986de457f8340d29
+      internalID: 13278159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1569
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e7e938c911284bb1e6e03a8f0264f
+      internalID: -266214217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1569
+        width: 83
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d9fc2973f9c14f9f0b033768c835e
+      internalID: 1835465129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1571
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988317d9ff9fef4b8d3c071783875b4
+      internalID: 988410142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1571
+        width: 68
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1ce5188dd11640aba73213f84253a
+      internalID: -1938437780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1569
+        width: 84
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151492397e5a2ca4aa8d5d882cec87b1
+      internalID: 693931386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1569
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3d979597d45a47a4f22c8e3150905
+      internalID: -258986102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1571
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15bf38859f37c347bef7f648b72b1d0
+      internalID: 235575753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1569
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d022a63dc7034da37455a7965c9b1
+      internalID: -1896863015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_14
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1569
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703c4548d4345e49baa5137f44f20d3
+      internalID: -2030522755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_15
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1571
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfe9d0ac11411429b34f343044205d
+      internalID: -1934880819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1569
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e1e0d1d458164cb2c90e95b509307
+      internalID: -1639204934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141aa3688f12c844da99e5a26ccb5510
+      internalID: 841460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea14ac997a2b2459fc7a8b77b3b79e
+      internalID: -445863605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e3b18a6112564aac6754cb8174003
+      internalID: -649704300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164cd2fe882f0349ba430fdde6f4e89
+      internalID: -1540463769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8566b17ef62334e84281b84c2d2483
+      internalID: -1912207785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf01c5fc0c493cf44aa06632f6ecc132
+      internalID: -1024931145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165f909a7814614ab5e0ce3410b6a7a
+      internalID: 349408581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6406b290d4e18a4bbb70a1f620d8894
+      internalID: 1442383360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4978f7f20875418e8fb47bca0084b
+      internalID: 915194240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1488
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b7dba91733d824f9c303312491bbfd
+      internalID: -611950354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8034f6fc32ca5e943ad0904128c8e50d
+      internalID: -818732162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589146c0379caf4797c2ad0a37351e8
+      internalID: 1740198524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215493213094d94f8abbd5e8844fd45
+      internalID: -1766648029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efe6f491adce14eaafe6c499648404
+      internalID: -87851366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566a66f326817f1498e469f9f41fc1c5
+      internalID: -1212137895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4ce7a5175bcb448268795b7a8e81d
+      internalID: 2039887282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ee833e13ff3a439303a9eba53338e
+      internalID: -587517523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cacd4d1e2668924f93555ad55bf6a17
+      internalID: -987532768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4419dea9632c3947812b1b762dcf105
+      internalID: 1914605230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_36
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1392
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf24cdf58798ac4cabb73533454e49d
+      internalID: -668328460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2138239a88c4054a828589b9c2e6725
+      internalID: -320193881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830ed6e611ac4747ad1df3ae1f39d78
+      internalID: 261321831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34032b4fe5150db479508e56df3328bb
+      internalID: 241448503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf41a20cfc24054ba3ff973599956c0
+      internalID: -2098269385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a5e3392b43d754b9b1af62ca6baab6
+      internalID: 1178441590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a268ce14dfa6fe4887134ab563fde38
+      internalID: 448639153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ef9a960b7fd945829b4b01390730b
+      internalID: 568849580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_44
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d604f4484095745b27eebba7bbc7e8
+      internalID: 492187621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_45
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23eb73e7aa153449b25945f53ebb873
+      internalID: -774201560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_46
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1296
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b635d2cf80064f8ea820c8605341a
+      internalID: 570011978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c6d7eff3a6014a95c76a9d00f55aa
+      internalID: -403372748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdf1b9a3c342845ba01460c4ac957a
+      internalID: -2052932689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864053845af4974bb595516386920de
+      internalID: 853001584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed449173b888284084df5315e1a9a09
+      internalID: 312539893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba4d803b9cd444d9359f01f737e593
+      internalID: 1100657477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_52
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67a045d06969c4aa8f7e7b29346a24
+      internalID: 1580675389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c73b4894d31c408915269652f3593
+      internalID: 342174116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e45e7864937af439a82d441dd587de
+      internalID: -865076756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_55
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1200
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bc701e7f069a45b7a5def099fce2a
+      internalID: 864940593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1192
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19c8c4c6749564187a8b588999ee78
+      internalID: -168033030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516dfcfb958b9f5409e329c4fe9485dd
+      internalID: 343836343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a0b26ca88a2445917e56e3cc1565f
+      internalID: 884853788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381eae1b31d0f34e9c21949c9199bc1
+      internalID: 773885569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9c5f64d1ad0e4f912b911e5ecfebb
+      internalID: 283209512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82436deafed70624385b497f995b26d8
+      internalID: 528043201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_62
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d7c5e293ace1549951e8a4cd51e2a7
+      internalID: -1768278680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef61ad2ffe2654e8adf10067002c57
+      internalID: -149567334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b37fa530721b14d99ab384700ab26e
+      internalID: -497794693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_65
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c2c6b6cc29e5a44a411a07f9225c8f
+      internalID: -1032529852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_66
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1104
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a35b4fc40123746bfcc72b19ca149e
+      internalID: 1748061533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1065
+        width: 141
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd71bdcd7fc3b41b372f1cc9c4ec5c
+      internalID: -1180502115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1067
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f83d288eeff0a4cb445878021a8bf2
+      internalID: -727838934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1067
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9912476d06a9c6418158cc0420322f4
+      internalID: 1392522367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1065
+        width: 142
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c0dc135c89e840a67abcdde18a3bd
+      internalID: -1781267476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1065
+        width: 107
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f206aa12b0962ae4e8b6cde8a3ea1f25
+      internalID: 1127420340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1067
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43c6faca3bfe764a94fa5ee9a143a1a
+      internalID: -619562829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_73
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1067
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def881c9198f6bd489975ac6e3e9a128
+      internalID: 386719774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_74
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1065
+        width: 108
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba3240375e10d4ba5bba060447c5f6
+      internalID: 1082827445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_75
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1065
+        width: 93
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da624c3b07ecd834d8f93860377173d4
+      internalID: 1857616315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_76
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1067
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c493fa94f01de4bad6a178829f2e61
+      internalID: -89748454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1067
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3f63cc6ffb624db2c7b7e6a75dca3
+      internalID: 301875475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_78
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1065
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547361da70fabd74a80da0b8a42f2f31
+      internalID: -563001410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_79
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df42304337fd6043a92f4ece895a72a
+      internalID: 1292530085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63013695e006540aac6df922fd9f7c
+      internalID: 1721727145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e61f67c1780bb488f15dc2cf0deb85
+      internalID: 1498896128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_82
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f09575087794549821ac6e7cc92a1c
+      internalID: 446807598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d853518986d6aec479f030ef06c2242b
+      internalID: 732339314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b0f9fde6f1dc7439f130774e79e948
+      internalID: 1848823193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4253517583f50a4c96e9ef3b5bf6fe7
+      internalID: -598952418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_86
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e44bc7bee4acf4ea21038808124b5d
+      internalID: -2099189412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_87
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb319185c70c54897a95e41a0e1efa
+      internalID: -1947461057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_88
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 984
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81846c1d6da84f047abe88f205121c0d
+      internalID: -404886483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309a259962f1574a95d4ec8f25db31b
+      internalID: -462661612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cacbfe57afb6429f99cd52697edd3
+      internalID: 1729945231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f156799538b3f947bc918c8c5ea66b1
+      internalID: 592497895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e072b957a5ee3b4d9009f967e5808b5
+      internalID: 412576848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_93
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fc1bb8b574c443b7e9fbcc40ceb94
+      internalID: 1618835406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84c59b8f3f3044bb1d8ddafd3f418e
+      internalID: 954313890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10130a76526d3d84ab34d3e0908b1df3
+      internalID: 231565443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584a938423d1ce4d84fc871e1411793
+      internalID: -2060715696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_97
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d3440010300dc47a5da255d0673e62
+      internalID: -1997029631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_98
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 888
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c42c7a386dfb5469ace72374c3ca68
+      internalID: -732632451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0757a604f12f4f8d07003c246d6f8
+      internalID: 1689685095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb32ebeb40f1c4c9929518273b4cac
+      internalID: 397162254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce59771252e2e04ba857209f1bd3d42
+      internalID: 1832829688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cf37fcdaa9c5488fed9d35c1b78f7
+      internalID: -2136239784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72a3f401982fc448dde93f95e3770c
+      internalID: 1430259683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_104
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c85142c408c944bb31a7676855c47
+      internalID: 461337101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee2f04689e0254297e462fd1c59ef8
+      internalID: -1025288035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_106
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692044c42bbe0d47afed00523176ecd
+      internalID: -578941276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_107
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4dcedfa8417443b267add65d1fb01
+      internalID: 2002589304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_108
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 792
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156153481d72fc45bf93474f54cb826
+      internalID: 1610045599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 753
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade7c1d47ea4ed46a99469b8d839169
+      internalID: 1079098048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_110
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 755
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a8c07e42b04284195a6d0d2386bfba
+      internalID: 2130141029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_111
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 753
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b15da61f992e442828cebb5e0a88ac
+      internalID: -439931434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 753
+        width: 73
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d1c9dce3585594db5af1185b5f8b94
+      internalID: 1149868147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_113
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 755
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b3bab91af99a4898b3ee58f78a368
+      internalID: -618413110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_114
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 753
+        width: 74
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc73e51c380f1a4da4565702773e420
+      internalID: 2047110921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 753
+        width: 103
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54e1267f2c6dd4b96194f81bd4b458
+      internalID: -1292479969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_116
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 755
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1014664f46c74ba6bf8d12215690f
+      internalID: 990785532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_117
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 753
+        width: 104
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2df30a8a9a51b458e68957a2bda61e
+      internalID: -1816046546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_118
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 753
+        width: 114
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed62943a371eb47aa88324adf1687f
+      internalID: 2069546802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 755
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8159c1bab5cc394998882f46b215adf
+      internalID: 216862014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_120
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 753
+        width: 114
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0fd8a67123224395d414a4937571c
+      internalID: 411041474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c214d12b310de94d948a8b2b09e985f
+      internalID: 1947042609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_122
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a49b972ab966444a5132e2cbf6af21
+      internalID: -1375803282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8962567b56314458916e7ad7e948c7
+      internalID: -1256672503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_124
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164bd3676a56d5940a6d7bbe79a7028f
+      internalID: -315936332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_125
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a58174d9cc341b46975a6bcd8a7363b
+      internalID: 1279861038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_126
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609b9670977e814da35e2e734eeedb6
+      internalID: 1095128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_127
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc66327156d02304cbf69f00fd73c21c
+      internalID: -1403488257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_128
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2883a36fc65fb6a4792cc21e5bc58b3f
+      internalID: 1943751904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_129
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0932fef2c46b5a54cbe0e06e690f88e6
+      internalID: -1033223418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c2db43afb0f20408f1d372f58ad752
+      internalID: 979377847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0dc89067356243b904396ace26497
+      internalID: 921599244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_132
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b875ff208cf2540850c0f0ae73160e
+      internalID: -124695758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_133
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93024a5ce2413ee46a0ab449590158e9
+      internalID: 673966528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_134
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17c140550fd1b4ca817f82c3644648
+      internalID: -1973037019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_135
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 576
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207341505cb1b894a88423e86b6651b2
+      internalID: 1434772147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80026a09a6c717947928c41529fb9ef9
+      internalID: -1040807877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_137
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b995ff1fb3004282558a4a7ef8632
+      internalID: -1940814305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_138
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 576
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985b61d62d39e14da8a2dde24bcc044
+      internalID: -145159967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f150ce04b7a7f748b54adc01358c4d0
+      internalID: -266716972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c778ec7337a413448609cab51a96bca
+      internalID: -1435865848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce12c3503c19e4382c665e219909f7
+      internalID: 350070232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_142
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311505110cf8e0479e7c5a798270dde
+      internalID: 102503018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_143
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f91ee208b8eda45bdad560395826d2
+      internalID: -1901353242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_144
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99cda0206a9e4e4ba8f1bfbb64317d0
+      internalID: 1697408765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55009f864229bb141b681437f98c6103
+      internalID: -1872436769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_146
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33418015b41fa814aa7c9533ddfa114e
+      internalID: 870441875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_147
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c2421a0df67040bd6603a78541421
+      internalID: 597640314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_148
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 441
+        width: 152
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88119920ca856647a142aed8d8e5601
+      internalID: 719808274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_149
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 443
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55527095f6a9f408a1d6c225e292a3
+      internalID: 966204818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_150
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 443
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79dbe44a73bfe48907392d7dfde31f
+      internalID: -2143132999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_151
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 441
+        width: 152
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e688d22398b29409129d25d1776d73
+      internalID: -734249837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 441
+        width: 70
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d698c94ad07e4f8ce3e324c66466d
+      internalID: -935803802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_153
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 443
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b3ab2e309f834abeeb6b6b7e22178
+      internalID: 615645101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_154
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 441
+        width: 70
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3910da367dd943a0ab3de9dfebe96
+      internalID: 1129639047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_155
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f942ce4610b0045b66a3cf0c84b2bd
+      internalID: -1472775456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f827a688a614bd4ebfab60dca284110
+      internalID: 1966382924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_157
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e443780c9c003ee469eaedf32b652224
+      internalID: 980129491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_158
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdbe89aa34a0a441983deca43190313
+      internalID: -1736541022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_159
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d3a4b7899d4c428931a0fee4d2078
+      internalID: 2092221763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_160
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f82a22d0035ba48913be02c64d3de2
+      internalID: 274985669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20855cfbeb0324eadb2a3645f1272b
+      internalID: -1905883897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_162
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287c986d547f1c4c9c0a1b0094375ec
+      internalID: -2145815710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_163
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4207d9684c5dac34d9d6e79152e67c77
+      internalID: 659231820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_164
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 264
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880e7eb60fd5674cbc11fa61ee6ec73
+      internalID: 412531482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_165
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 268
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92326b4c56dde24394cbc93c8469bbf
+      internalID: -885876371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_166
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 268
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e91a71fa72884ca76465c74cf9196
+      internalID: -1049233356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_167
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 159
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2768510f27fe4f89f3f1e813856de
+      internalID: -20142449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_168
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 227
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b535b8e1ada449be314e295d1e79a
+      internalID: 1819806884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_169
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 227
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ca68b1cb2cb247b6bab1e28ae3dff
+      internalID: 870415505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_170
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 160
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7bcc61f6327c458f25bda179c4204
+      internalID: -358150061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79e695c51ba4e4a862f9a98299c4b3
+      internalID: 628794940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_172
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508b9f335d27a146b66ce968d2ea787
+      internalID: -35997863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d9b2d18344c647a2520970f31d9f1
+      internalID: 1337596079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_174
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5e1578c759b7488ba07be923b4cc4
+      internalID: 2082473880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_175
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 105
+        width: 255
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706a9d29edd3ac489119f202beeec08
+      internalID: -2088609363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 107
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c809f8eb68d22479e9c5b7139742b8
+      internalID: 1946492806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_177
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 107
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4217a90c14a41a409d732adc1015429
+      internalID: 1139106262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_178
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 105
+        width: 255
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe188a4c24118c4ab70a19b209158f2
+      internalID: 1580687758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247001285899fe4096a9cf70c701ab5
+      internalID: -1336833435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_180
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8b5ebc568d264bb09ee241b69fce9
+      internalID: 499578706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_181
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3403b865a6d84c4fba175eb9ed7f17d
+      internalID: -283450543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592000fc0dabad468dadc1d037ffa8f
+      internalID: 1465369647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_183
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a53a072fa0724fb68c53b1823bea3
+      internalID: -1658786940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Dragon Ball Z The Legend - Cell_184
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71accb2587e080640a66f4dce326aadf
+      internalID: -1260021739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Saturn - Dragon Ball Z The Legend - Cell_0: -945380268
+      Saturn - Dragon Ball Z The Legend - Cell_1: 341950365
+      Saturn - Dragon Ball Z The Legend - Cell_10: 693931386
+      Saturn - Dragon Ball Z The Legend - Cell_100: 397162254
+      Saturn - Dragon Ball Z The Legend - Cell_101: 1832829688
+      Saturn - Dragon Ball Z The Legend - Cell_102: -2136239784
+      Saturn - Dragon Ball Z The Legend - Cell_103: 1430259683
+      Saturn - Dragon Ball Z The Legend - Cell_104: 461337101
+      Saturn - Dragon Ball Z The Legend - Cell_105: -1025288035
+      Saturn - Dragon Ball Z The Legend - Cell_106: -578941276
+      Saturn - Dragon Ball Z The Legend - Cell_107: 2002589304
+      Saturn - Dragon Ball Z The Legend - Cell_108: 1610045599
+      Saturn - Dragon Ball Z The Legend - Cell_109: 1079098048
+      Saturn - Dragon Ball Z The Legend - Cell_11: -258986102
+      Saturn - Dragon Ball Z The Legend - Cell_110: 2130141029
+      Saturn - Dragon Ball Z The Legend - Cell_111: -439931434
+      Saturn - Dragon Ball Z The Legend - Cell_112: 1149868147
+      Saturn - Dragon Ball Z The Legend - Cell_113: -618413110
+      Saturn - Dragon Ball Z The Legend - Cell_114: 2047110921
+      Saturn - Dragon Ball Z The Legend - Cell_115: -1292479969
+      Saturn - Dragon Ball Z The Legend - Cell_116: 990785532
+      Saturn - Dragon Ball Z The Legend - Cell_117: -1816046546
+      Saturn - Dragon Ball Z The Legend - Cell_118: 2069546802
+      Saturn - Dragon Ball Z The Legend - Cell_119: 216862014
+      Saturn - Dragon Ball Z The Legend - Cell_12: 235575753
+      Saturn - Dragon Ball Z The Legend - Cell_120: 411041474
+      Saturn - Dragon Ball Z The Legend - Cell_121: 1947042609
+      Saturn - Dragon Ball Z The Legend - Cell_122: -1375803282
+      Saturn - Dragon Ball Z The Legend - Cell_123: -1256672503
+      Saturn - Dragon Ball Z The Legend - Cell_124: -315936332
+      Saturn - Dragon Ball Z The Legend - Cell_125: 1279861038
+      Saturn - Dragon Ball Z The Legend - Cell_126: 1095128197
+      Saturn - Dragon Ball Z The Legend - Cell_127: -1403488257
+      Saturn - Dragon Ball Z The Legend - Cell_128: 1943751904
+      Saturn - Dragon Ball Z The Legend - Cell_129: -1033223418
+      Saturn - Dragon Ball Z The Legend - Cell_13: -1896863015
+      Saturn - Dragon Ball Z The Legend - Cell_130: 979377847
+      Saturn - Dragon Ball Z The Legend - Cell_131: 921599244
+      Saturn - Dragon Ball Z The Legend - Cell_132: -124695758
+      Saturn - Dragon Ball Z The Legend - Cell_133: 673966528
+      Saturn - Dragon Ball Z The Legend - Cell_134: -1973037019
+      Saturn - Dragon Ball Z The Legend - Cell_135: 1434772147
+      Saturn - Dragon Ball Z The Legend - Cell_136: -1040807877
+      Saturn - Dragon Ball Z The Legend - Cell_137: -1940814305
+      Saturn - Dragon Ball Z The Legend - Cell_138: -145159967
+      Saturn - Dragon Ball Z The Legend - Cell_139: -266716972
+      Saturn - Dragon Ball Z The Legend - Cell_14: -2030522755
+      Saturn - Dragon Ball Z The Legend - Cell_140: -1435865848
+      Saturn - Dragon Ball Z The Legend - Cell_141: 350070232
+      Saturn - Dragon Ball Z The Legend - Cell_142: 102503018
+      Saturn - Dragon Ball Z The Legend - Cell_143: -1901353242
+      Saturn - Dragon Ball Z The Legend - Cell_144: 1697408765
+      Saturn - Dragon Ball Z The Legend - Cell_145: -1872436769
+      Saturn - Dragon Ball Z The Legend - Cell_146: 870441875
+      Saturn - Dragon Ball Z The Legend - Cell_147: 597640314
+      Saturn - Dragon Ball Z The Legend - Cell_148: 719808274
+      Saturn - Dragon Ball Z The Legend - Cell_149: 966204818
+      Saturn - Dragon Ball Z The Legend - Cell_15: -1934880819
+      Saturn - Dragon Ball Z The Legend - Cell_150: -2143132999
+      Saturn - Dragon Ball Z The Legend - Cell_151: -734249837
+      Saturn - Dragon Ball Z The Legend - Cell_152: -935803802
+      Saturn - Dragon Ball Z The Legend - Cell_153: 615645101
+      Saturn - Dragon Ball Z The Legend - Cell_154: 1129639047
+      Saturn - Dragon Ball Z The Legend - Cell_155: -1472775456
+      Saturn - Dragon Ball Z The Legend - Cell_156: 1966382924
+      Saturn - Dragon Ball Z The Legend - Cell_157: 980129491
+      Saturn - Dragon Ball Z The Legend - Cell_158: -1736541022
+      Saturn - Dragon Ball Z The Legend - Cell_159: 2092221763
+      Saturn - Dragon Ball Z The Legend - Cell_16: -1639204934
+      Saturn - Dragon Ball Z The Legend - Cell_160: 274985669
+      Saturn - Dragon Ball Z The Legend - Cell_161: -1905883897
+      Saturn - Dragon Ball Z The Legend - Cell_162: -2145815710
+      Saturn - Dragon Ball Z The Legend - Cell_163: 659231820
+      Saturn - Dragon Ball Z The Legend - Cell_164: 412531482
+      Saturn - Dragon Ball Z The Legend - Cell_165: -885876371
+      Saturn - Dragon Ball Z The Legend - Cell_166: -1049233356
+      Saturn - Dragon Ball Z The Legend - Cell_167: -20142449
+      Saturn - Dragon Ball Z The Legend - Cell_168: 1819806884
+      Saturn - Dragon Ball Z The Legend - Cell_169: 870415505
+      Saturn - Dragon Ball Z The Legend - Cell_17: 841460778
+      Saturn - Dragon Ball Z The Legend - Cell_170: -358150061
+      Saturn - Dragon Ball Z The Legend - Cell_171: 628794940
+      Saturn - Dragon Ball Z The Legend - Cell_172: -35997863
+      Saturn - Dragon Ball Z The Legend - Cell_173: 1337596079
+      Saturn - Dragon Ball Z The Legend - Cell_174: 2082473880
+      Saturn - Dragon Ball Z The Legend - Cell_175: -2088609363
+      Saturn - Dragon Ball Z The Legend - Cell_176: 1946492806
+      Saturn - Dragon Ball Z The Legend - Cell_177: 1139106262
+      Saturn - Dragon Ball Z The Legend - Cell_178: 1580687758
+      Saturn - Dragon Ball Z The Legend - Cell_179: -1336833435
+      Saturn - Dragon Ball Z The Legend - Cell_18: -445863605
+      Saturn - Dragon Ball Z The Legend - Cell_180: 499578706
+      Saturn - Dragon Ball Z The Legend - Cell_181: -283450543
+      Saturn - Dragon Ball Z The Legend - Cell_182: 1465369647
+      Saturn - Dragon Ball Z The Legend - Cell_183: -1658786940
+      Saturn - Dragon Ball Z The Legend - Cell_184: -1260021739
+      Saturn - Dragon Ball Z The Legend - Cell_19: -649704300
+      Saturn - Dragon Ball Z The Legend - Cell_2: 1218029937
+      Saturn - Dragon Ball Z The Legend - Cell_20: -1540463769
+      Saturn - Dragon Ball Z The Legend - Cell_21: -1912207785
+      Saturn - Dragon Ball Z The Legend - Cell_22: -1024931145
+      Saturn - Dragon Ball Z The Legend - Cell_23: 349408581
+      Saturn - Dragon Ball Z The Legend - Cell_24: 1442383360
+      Saturn - Dragon Ball Z The Legend - Cell_25: 915194240
+      Saturn - Dragon Ball Z The Legend - Cell_26: -611950354
+      Saturn - Dragon Ball Z The Legend - Cell_27: -818732162
+      Saturn - Dragon Ball Z The Legend - Cell_28: 1740198524
+      Saturn - Dragon Ball Z The Legend - Cell_29: -1766648029
+      Saturn - Dragon Ball Z The Legend - Cell_3: -1951891123
+      Saturn - Dragon Ball Z The Legend - Cell_30: -87851366
+      Saturn - Dragon Ball Z The Legend - Cell_31: -1212137895
+      Saturn - Dragon Ball Z The Legend - Cell_32: 2039887282
+      Saturn - Dragon Ball Z The Legend - Cell_33: -587517523
+      Saturn - Dragon Ball Z The Legend - Cell_34: -987532768
+      Saturn - Dragon Ball Z The Legend - Cell_35: 1914605230
+      Saturn - Dragon Ball Z The Legend - Cell_36: -668328460
+      Saturn - Dragon Ball Z The Legend - Cell_37: -320193881
+      Saturn - Dragon Ball Z The Legend - Cell_38: 261321831
+      Saturn - Dragon Ball Z The Legend - Cell_39: 241448503
+      Saturn - Dragon Ball Z The Legend - Cell_4: 1386986865
+      Saturn - Dragon Ball Z The Legend - Cell_40: -2098269385
+      Saturn - Dragon Ball Z The Legend - Cell_41: 1178441590
+      Saturn - Dragon Ball Z The Legend - Cell_42: 448639153
+      Saturn - Dragon Ball Z The Legend - Cell_43: 568849580
+      Saturn - Dragon Ball Z The Legend - Cell_44: 492187621
+      Saturn - Dragon Ball Z The Legend - Cell_45: -774201560
+      Saturn - Dragon Ball Z The Legend - Cell_46: 570011978
+      Saturn - Dragon Ball Z The Legend - Cell_47: -403372748
+      Saturn - Dragon Ball Z The Legend - Cell_48: -2052932689
+      Saturn - Dragon Ball Z The Legend - Cell_49: 853001584
+      Saturn - Dragon Ball Z The Legend - Cell_5: 13278159
+      Saturn - Dragon Ball Z The Legend - Cell_50: 312539893
+      Saturn - Dragon Ball Z The Legend - Cell_51: 1100657477
+      Saturn - Dragon Ball Z The Legend - Cell_52: 1580675389
+      Saturn - Dragon Ball Z The Legend - Cell_53: 342174116
+      Saturn - Dragon Ball Z The Legend - Cell_54: -865076756
+      Saturn - Dragon Ball Z The Legend - Cell_55: 864940593
+      Saturn - Dragon Ball Z The Legend - Cell_56: -168033030
+      Saturn - Dragon Ball Z The Legend - Cell_57: 343836343
+      Saturn - Dragon Ball Z The Legend - Cell_58: 884853788
+      Saturn - Dragon Ball Z The Legend - Cell_59: 773885569
+      Saturn - Dragon Ball Z The Legend - Cell_6: -266214217
+      Saturn - Dragon Ball Z The Legend - Cell_60: 283209512
+      Saturn - Dragon Ball Z The Legend - Cell_61: 528043201
+      Saturn - Dragon Ball Z The Legend - Cell_62: -1768278680
+      Saturn - Dragon Ball Z The Legend - Cell_63: -149567334
+      Saturn - Dragon Ball Z The Legend - Cell_64: -497794693
+      Saturn - Dragon Ball Z The Legend - Cell_65: -1032529852
+      Saturn - Dragon Ball Z The Legend - Cell_66: 1748061533
+      Saturn - Dragon Ball Z The Legend - Cell_67: -1180502115
+      Saturn - Dragon Ball Z The Legend - Cell_68: -727838934
+      Saturn - Dragon Ball Z The Legend - Cell_69: 1392522367
+      Saturn - Dragon Ball Z The Legend - Cell_7: 1835465129
+      Saturn - Dragon Ball Z The Legend - Cell_70: -1781267476
+      Saturn - Dragon Ball Z The Legend - Cell_71: 1127420340
+      Saturn - Dragon Ball Z The Legend - Cell_72: -619562829
+      Saturn - Dragon Ball Z The Legend - Cell_73: 386719774
+      Saturn - Dragon Ball Z The Legend - Cell_74: 1082827445
+      Saturn - Dragon Ball Z The Legend - Cell_75: 1857616315
+      Saturn - Dragon Ball Z The Legend - Cell_76: -89748454
+      Saturn - Dragon Ball Z The Legend - Cell_77: 301875475
+      Saturn - Dragon Ball Z The Legend - Cell_78: -563001410
+      Saturn - Dragon Ball Z The Legend - Cell_79: 1292530085
+      Saturn - Dragon Ball Z The Legend - Cell_8: 988410142
+      Saturn - Dragon Ball Z The Legend - Cell_80: 1721727145
+      Saturn - Dragon Ball Z The Legend - Cell_81: 1498896128
+      Saturn - Dragon Ball Z The Legend - Cell_82: 446807598
+      Saturn - Dragon Ball Z The Legend - Cell_83: 732339314
+      Saturn - Dragon Ball Z The Legend - Cell_84: 1848823193
+      Saturn - Dragon Ball Z The Legend - Cell_85: -598952418
+      Saturn - Dragon Ball Z The Legend - Cell_86: -2099189412
+      Saturn - Dragon Ball Z The Legend - Cell_87: -1947461057
+      Saturn - Dragon Ball Z The Legend - Cell_88: -404886483
+      Saturn - Dragon Ball Z The Legend - Cell_89: -462661612
+      Saturn - Dragon Ball Z The Legend - Cell_9: -1938437780
+      Saturn - Dragon Ball Z The Legend - Cell_90: 1729945231
+      Saturn - Dragon Ball Z The Legend - Cell_91: 592497895
+      Saturn - Dragon Ball Z The Legend - Cell_92: 412576848
+      Saturn - Dragon Ball Z The Legend - Cell_93: 1618835406
+      Saturn - Dragon Ball Z The Legend - Cell_94: 954313890
+      Saturn - Dragon Ball Z The Legend - Cell_95: 231565443
+      Saturn - Dragon Ball Z The Legend - Cell_96: -2060715696
+      Saturn - Dragon Ball Z The Legend - Cell_97: -1997029631
+      Saturn - Dragon Ball Z The Legend - Cell_98: -732632451
+      Saturn - Dragon Ball Z The Legend - Cell_99: 1689685095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

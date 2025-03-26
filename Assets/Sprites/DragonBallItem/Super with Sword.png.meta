@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 39cb47c9a8a89c7498e5217c5947f522
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super with Sword_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3710
+        width: 634
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79687064445a56741aa255f9895ae704
+      internalID: -1876809470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 3755
+        width: 690
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd4f12ddfbf6a43abb346d03b9c42d
+      internalID: -2136524895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3973
+        width: 389
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdfda1c5336d74a9c1ca4f8f78ba2f
+      internalID: -1567186270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3742
+        width: 215
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154d344c81c6d542822364898dd2b14
+      internalID: 1508812972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_4
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3972
+        width: 305
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f50dc3faca544e86e7a44a9f9f804
+      internalID: 290843230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_5
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 3767
+        width: 322
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578307f84a5f7748bc18fcb7c967ff9
+      internalID: -620487405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3388
+        width: 346
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee509a83760dbc44ad8ceacc89f2212
+      internalID: -970460595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3388
+        width: 345
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa51b07b2c304542bdd2cfdd7df786e
+      internalID: -128163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3426
+        width: 377
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e34e6c1a7b9984da2bdd558ded39a0
+      internalID: 1677304244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_9
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3424
+        width: 330
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4148ef86cf1134a9468c8ce7ab6622
+      internalID: 771290410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_10
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3488
+        width: 249
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b7b40cc3f4b247bbff17c28acb5e4
+      internalID: 621162608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_11
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3168
+        width: 222
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3550a086b759458ec038e11ff7a1a
+      internalID: -991646381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_12
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 3503
+        width: 385
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3600d5366eb24e46a3a875cb735b21a
+      internalID: 512485333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_13
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3174
+        width: 303
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c851ea8bca2d11645a946143fbd5c30b
+      internalID: -1166414482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_14
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3175
+        width: 303
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89ef13a341570419021bf4d3fa1ac3
+      internalID: -259096465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_15
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3185
+        width: 288
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664af71ecbfe0341b7aa1e04b603062
+      internalID: 1923881765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_16
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3445
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd48c16a4b4e4a47834e9ea544e477b
+      internalID: 1255259551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3206
+        width: 351
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c72a703f3aaed44b1151c2a70d986f
+      internalID: 1393093888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3193
+        width: 352
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e178cf4635fdb547b9b18c3522999ac
+      internalID: 531584547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2881
+        width: 238
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b2ce61ff591e49970f5d7a104b9dd
+      internalID: -325121196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2882
+        width: 237
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155bca51547571488856936421fcda9
+      internalID: -604352135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2848
+        width: 364
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce009c974fd8241b79205331a26478
+      internalID: 389536395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_22
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2841
+        width: 244
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd44e62469de73499b5e0a3c098fba8
+      internalID: -10621303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_23
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2840
+        width: 131
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8ab392167a2f46923543291b59783
+      internalID: 1014982771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_24
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2856
+        width: 178
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c7e228f736d6478c5474ace7d0bf9
+      internalID: -195840053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_25
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2988
+        width: 270
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859b2a42f0ed574d80280b559e5e6c1
+      internalID: -1476504690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_26
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2969
+        width: 270
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6954b5d2b7b9d74fae42f9351990fb8
+      internalID: 637999755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2643
+        width: 401
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486734a578acf6449fc7141e77cd6fb
+      internalID: 343045303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2513
+        width: 218
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e6b7c2b70e934f9dcc1462304623e
+      internalID: 1951910690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_29
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2513
+        width: 150
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1e83241b34554b898178c815609f9
+      internalID: -452121809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_30
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2538
+        width: 695
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd05f4dfd51bd46a0fb931327cd6b4
+      internalID: -1732496188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_31
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2649
+        width: 276
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e74ad76cfa91c40a867eb891dd6113
+      internalID: -389212228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_32
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2641
+        width: 190
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2211e863fc1f4680bcccceb3255dd
+      internalID: -1093597525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 323
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c494f9114f07f80429aeb41b74274afe
+      internalID: -26799467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2318
+        width: 312
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c72cafb17e7c4aba4d5af14731262
+      internalID: 163666103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_35
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2272
+        width: 351
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e33f72e9fca6b46b81d61a0e8f2787
+      internalID: 559701764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_36
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2270
+        width: 351
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e28b43c9f9e84e806d2708c69ad22
+      internalID: -1056988616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_37
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2312
+        width: 412
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51ed8f6cef1a74f9547b8e96e88416
+      internalID: 397978274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_38
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2299
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e645cd514fe03444a79fb4d826b0c61
+      internalID: -1332591523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1975
+        width: 240
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e902780b6862d1a43aa59af0ff7ec806
+      internalID: 1099101880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1968
+        width: 268
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399294f3ef989041ac424e9973e81b7
+      internalID: 1997625324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1973
+        width: 337
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1c45350744eee459d91d14b0682261
+      internalID: 1639082017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_42
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1973
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22530a657443b80479e2a83b8bce466e
+      internalID: 1477223118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_43
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1956
+        width: 343
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a3393a6a43bb4fbde4b1594269d1c
+      internalID: 113055774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_44
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1693
+        width: 349
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972deb9540a65143854fa1909c30fa8
+      internalID: 1518569985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_45
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1956
+        width: 343
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb464922f26db445870e04e7f5749ca
+      internalID: -1739226217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_46
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1986
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed71413060b6684abd543e40a43243f
+      internalID: -1199827414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1533
+        width: 502
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf0b6a26f89a542b7a17cc283722ae
+      internalID: -2005070021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_48
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1512
+        width: 306
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33474441626a0e4188afc03a795fc6d
+      internalID: 865787026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_49
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1695
+        width: 349
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46d525d9c31da742b7e784e08b016c7
+      internalID: -1163179763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 761
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82061ca50b8309d4ab47cc75e03d07be
+      internalID: -1820818828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_51
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1211
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07ccbfbf7820f45898100f9d4aff43
+      internalID: -172357165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 742
+        width: 753
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb0ee0ba9657c24e89be4ece67c634e
+      internalID: 1034767181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_53
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1180
+        width: 188
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0a0cd12bb62346a84cdf9cad86153
+      internalID: -682739650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_54
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1177
+        width: 152
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f0c7056693e44dabbc36fa4a46e9c
+      internalID: 1271225494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_55
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 76
+        width: 485
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6efaa0ef75ca704686a25503c16647b
+      internalID: 1582749744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_56
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 343
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350830e133ff9444193469765b74b2b4
+      internalID: -2068397356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super with Sword_57
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 0
+        width: 341
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b888b328d3177844195958fcc991660c
+      internalID: 827529923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super with Sword_0: -1876809470
+      Super with Sword_1: -2136524895
+      Super with Sword_10: 621162608
+      Super with Sword_11: -991646381
+      Super with Sword_12: 512485333
+      Super with Sword_13: -1166414482
+      Super with Sword_14: -259096465
+      Super with Sword_15: 1923881765
+      Super with Sword_16: 1255259551
+      Super with Sword_17: 1393093888
+      Super with Sword_18: 531584547
+      Super with Sword_19: -325121196
+      Super with Sword_2: -1567186270
+      Super with Sword_20: -604352135
+      Super with Sword_21: 389536395
+      Super with Sword_22: -10621303
+      Super with Sword_23: 1014982771
+      Super with Sword_24: -195840053
+      Super with Sword_25: -1476504690
+      Super with Sword_26: 637999755
+      Super with Sword_27: 343045303
+      Super with Sword_28: 1951910690
+      Super with Sword_29: -452121809
+      Super with Sword_3: 1508812972
+      Super with Sword_30: -1732496188
+      Super with Sword_31: -389212228
+      Super with Sword_32: -1093597525
+      Super with Sword_33: -26799467
+      Super with Sword_34: 163666103
+      Super with Sword_35: 559701764
+      Super with Sword_36: -1056988616
+      Super with Sword_37: 397978274
+      Super with Sword_38: -1332591523
+      Super with Sword_39: 1099101880
+      Super with Sword_4: 290843230
+      Super with Sword_40: 1997625324
+      Super with Sword_41: 1639082017
+      Super with Sword_42: 1477223118
+      Super with Sword_43: 113055774
+      Super with Sword_44: 1518569985
+      Super with Sword_45: -1739226217
+      Super with Sword_46: -1199827414
+      Super with Sword_47: -2005070021
+      Super with Sword_48: 865787026
+      Super with Sword_49: -1163179763
+      Super with Sword_5: -620487405
+      Super with Sword_50: -1820818828
+      Super with Sword_51: -172357165
+      Super with Sword_52: 1034767181
+      Super with Sword_53: -682739650
+      Super with Sword_54: 1271225494
+      Super with Sword_55: 1582749744
+      Super with Sword_56: -2068397356
+      Super with Sword_57: 827529923
+      Super with Sword_6: -970460595
+      Super with Sword_7: -128163572
+      Super with Sword_8: 1677304244
+      Super with Sword_9: 771290410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

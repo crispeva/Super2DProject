@@ -1,0 +1,3761 @@
+fileFormatVersion: 2
+guid: d2c9328fc8cfebb4c9ed1dda1a400d26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380302de68f5b448a789ea5e5d04826
+      internalID: -1733141013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1548
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f3d1dcd6a5ba4b89a80e47bad378c
+      internalID: 755145068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1548
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca00d2ae4390214b8327ba3fa92e7c6
+      internalID: -645721155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1548
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7b12100fa67d4eb3bd575e6dde605
+      internalID: 1029499081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1548
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1edbf5b71248c4e93bbdca827872e1
+      internalID: -1577077912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1548
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfe14262195984d8019759384d6f93
+      internalID: -360220813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1548
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0d254283105947adfc6a65a7ca4c1
+      internalID: 637356472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1548
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4b22954bbe064483cb32f9c28c73e
+      internalID: -637299687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1548
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bc2ba98e33164c828f9a64b34a9b5
+      internalID: 1043092649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1548
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569257ef33b0ec4784baaf1395c6c47
+      internalID: 228075083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1548
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3996617ce6da40aaa59f890b2fca9
+      internalID: 646219067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1459
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda02b919b4512478160a6855e34532
+      internalID: 806973088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1459
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01b93a38f902742a2f1d3629e4ed95
+      internalID: -698343282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1385
+        width: 49
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd121c514226394cba8805a96823756
+      internalID: -757243743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1459
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073220a24f094f4db402c44018e87d4
+      internalID: 827702063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1385
+        width: 56
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2aa47b78685d40b32f44474d49503
+      internalID: -650865399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1459
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7955e0ab2c6b84f9a8409142f76d8d
+      internalID: -1384218247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1459
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f247abaf149d46adcbb6374228346
+      internalID: -1429159726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1459
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e41e44be679d4fa6abb245dd4523c
+      internalID: 920614976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1459
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610889a18654a8943b1e033272c78b30
+      internalID: -411878578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1459
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4cdeb144d2044eb02a1f51e47c413
+      internalID: 2084600994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1459
+        width: 102
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82a7109e118f14aaeabf5ba0d2a011
+      internalID: -407611747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1459
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f071d888549f546b348bcd62b1bd5d
+      internalID: -2062353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_23
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1459
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f385e5238c004e8981e31803714c0
+      internalID: 1046236288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1459
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8f4f5496dfd54f8c01fc88b98d790
+      internalID: 1620828477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1385
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7835efdce7c9e874988eae702b28a4f8
+      internalID: -149210502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1385
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ad4d5763c2bd4abfada2274348420
+      internalID: 887251851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1385
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490687923583b5049bd300e5d064ee20
+      internalID: -182263129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1385
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4930c36ccadd8e44911ab5edbe57009
+      internalID: -1120190516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1385
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79636ea69588a4bab47b89c10f31f2
+      internalID: 1181140846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aeb96c3ff1cd844a000e22ec83e141
+      internalID: 1473726644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1273
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e6d6229487e241a67cbe3b3f4f55c
+      internalID: 1611915561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ae7870b63a8545be0a8333fce19b4
+      internalID: -322553273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1204
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220fcfe2fd606194eab093aabdfcb5ae
+      internalID: 2041405336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1135
+        width: 68
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754be939266486f4982aa000ce434e29
+      internalID: -370711520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1204
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034069c73d7cb794eaff2013dc0395b3
+      internalID: -1257891816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1204
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e46567060bf240969fc31b8d7a124
+      internalID: -1480968004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1135
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546e39a4164ee54f8a7c75b70b2d93e
+      internalID: 1497935797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1135
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c06a256b640346aaac5132acb9e60
+      internalID: 1244057580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1135
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7c2b979e1b3b4799a272e41deb3f3
+      internalID: -1082184904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1135
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c3ad3988e8d84cb670d5c4cc5035d
+      internalID: 588864263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1135
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604896e502f2adb429d68c4d9bcab8a5
+      internalID: -1265236083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a79106b1e56e4f8341ebb885a7087
+      internalID: -1124066655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1087
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed036d1c9292ce458ce7b76c87bc1bb
+      internalID: 407432404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1087
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e8fd491bca434689ee6b08a8638c3
+      internalID: -1715809990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1087
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb839ed58ebe74dab9828f2968ffd9
+      internalID: -838796460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_46
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1087
+        width: 97
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b280d07f60224fbf1f649329caae0
+      internalID: -1424990986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1087
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ecda85ed42f049979a36c5f1e51b5
+      internalID: 80692773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da6d16f49e5bd3498cdddfefce00bcd
+      internalID: 2088499082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 998
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880feed7c0719e48a26b38baab5fa34
+      internalID: -1536947286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 998
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1b4cc48913154392195d5c5d2fe7d
+      internalID: -1503540562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 998
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0443e1872b3842a09292a35275b84
+      internalID: 280843175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 998
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c61a3e2a546245a0c7bb8ee530a4c
+      internalID: 2141155514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 998
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacce7d1e30d10641992e1eac39c9d38
+      internalID: 153724901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 998
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bba5e4a80a78f4cb99d6b24eb2e457
+      internalID: -696341098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 998
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ffd09828dc916409756d32cd0888b7
+      internalID: -539184173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478c0d53be4f2a4d964a76946e60be1
+      internalID: -1321404852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 909
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77988322290c4314ab090f1935d22c6a
+      internalID: 705976992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 909
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcccc632037600478b2600ddc4ad79e
+      internalID: -1588176104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 909
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1ebd7bf863aa84b8de6fa27e571020
+      internalID: -1421191936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 909
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717bf1b1f05785b4082dc9fa2ee20749
+      internalID: -867818202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_61
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 909
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb395fcb862baee4abc42df8a69865e6
+      internalID: -714200649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ff8e8942a61b49acdf59980d3ecef
+      internalID: -845747179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 837
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c3c51b2997df47803bfa34aac51ec
+      internalID: -1761476078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 837
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38df397270535488f17300070c41f1
+      internalID: 1357477346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 837
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f374f63b3fba42804faddf43681c8
+      internalID: -1191774312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21679324471ee0d4cad892bc2490f1bc
+      internalID: 1162088160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 768
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57949ef05751db4c8f0520268f9eb4c
+      internalID: -604135739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 768
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4916f511e46a42bd059ad7f6cd3d6
+      internalID: 564621950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 768
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab22f65bf5113242bcb908ed5a15485
+      internalID: -2100075101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 768
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b2d37aabe443d4c9699d632394f425
+      internalID: -1369265235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_71
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 768
+        width: 97
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c25a509ee905469d91dbedb25a1bf
+      internalID: -366595422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 768
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec1f00c6c4cd34793c088860e0a598
+      internalID: -1191482057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbf52cb30f1e1478839bb4bbe40718
+      internalID: 387651957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 702
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc2fd4f6065ad4eba2e02b96865217
+      internalID: -1977457833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 702
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61ee8ac16fab54381d91f8515972ab
+      internalID: -1951084516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 702
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f3c4cefe8836439101c73c3d38cb0
+      internalID: 1765831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 702
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a87cf7b5b523459a6878115223270
+      internalID: 1552544546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_78
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 702
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc233aaeb009454c85fc13eca82f6ed
+      internalID: 1216876035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 617
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6087ed9a268a4e9bd5792dc421c36
+      internalID: -2033776890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 617
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02f36f8428e7a4192898820ebdb9de
+      internalID: -615540003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 617
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab17259a4753e64d81262fe22f38286
+      internalID: -1978302208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 617
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0159d38aa9e844c94329b8ee25ddca
+      internalID: 1943701590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_83
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 617
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8829ed99c4c16ca4fbdccc39d6f70bee
+      internalID: -419996670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_84
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 617
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995a0244de6a704dbce7bdb21167ae2
+      internalID: -1163290244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_85
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 617
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91825e01fb41f7545a3d335fce503f27
+      internalID: 948253639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_86
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 617
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27547180436fe44c868187abfb8751a
+      internalID: -2071735016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_87
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 617
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af849178dab8fb0478f156891e5c5b3f
+      internalID: -1537823387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3890832c45659468a0332df046f76d
+      internalID: 213524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 535
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b6b1a78e906e4e839f488ce401d4d
+      internalID: -565251929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 535
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e4a3887b6b9c24f9ff01667392ca06
+      internalID: 2042956160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_91
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 535
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35bc2c52af70e04f906e4a4fdc23ef2
+      internalID: 1745776752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_92
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 535
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5272d96be69434ca6e5f2f8161b2d7
+      internalID: 911289605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 535
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7cc4642645ca84c9a1db6ca90bf708
+      internalID: -1724656822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_94
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 535
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7553d73532cb419b119731e5690d1
+      internalID: -93014974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_95
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 535
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a1af8d5c01104787cef3a1eaffc93
+      internalID: -1997718783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_96
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 535
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a34b6ed40c309498426e1cccfd8f01
+      internalID: 1629667918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10adfb7d11d0f4d8a1c500df6272e9
+      internalID: -1984402501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 453
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdd48996912974688ce8fdbec14cdc
+      internalID: -1644480766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_99
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 453
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15513c393e6fd49b4429024943bcfc
+      internalID: 822879016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_100
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 453
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6e25a92ef595429ccd4a40220868f
+      internalID: -1962466748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 453
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65927c39a87ae4abc1f399d3959ee7
+      internalID: 1114735282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 453
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59e57c778d4084a8656e3ab76f39f8
+      internalID: -738574922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 453
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebc9fd9fc0f8b47b925f5dca6b7b16
+      internalID: -1286499288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_104
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 453
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66eb66c4e8205a468ff7df21f5c42ab
+      internalID: 513299890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb9e06f67b12f42a5735827f4fd9bb
+      internalID: -1589059735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 368
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69068e889bf5b94286ab54dd4885ae2
+      internalID: -1481188716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 368
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499cd43f02e710443afbce4ec22bcd4c
+      internalID: 1644296743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_108
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 368
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be84db2373f8444911f829af0c6e6c
+      internalID: -233973785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 368
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2c83b13e01e7498a65f6d051c25ca
+      internalID: -1104057480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_110
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 368
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13a6c2ed2296d4fb3f9a0491fce59e
+      internalID: 1103336081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_111
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 368
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2725f477093971419a30a37482dad7f
+      internalID: -1934334284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_112
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 368
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3418c4a756c142a5250082d059d45
+      internalID: -1200158593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 368
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f96fbb3907ec4468d9241223d2fbe4
+      internalID: 2077549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_114
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 368
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4caa7a1cf706f744b6de7e807a7cd33
+      internalID: 104551194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_115
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 368
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc340bfa6d270c4bb5e7e8aedaf2ca4
+      internalID: 1869311703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_116
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 368
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e242563dde9f6d45918906893157645
+      internalID: -205376797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_117
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 368
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70291f36456c38f4baae013ee91a0b29
+      internalID: -1563137066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42528a0e6430b2642a06e27453ec1dbd
+      internalID: 1499245853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 294
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378b041c6669f944ab320595aca33da
+      internalID: 2023311762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 294
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeda0cadfb5178469666aef537ad6fc
+      internalID: 1586585833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_121
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 294
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d550b80388e566b41ac200edc4e5c3bf
+      internalID: -1255037856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_122
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 294
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec14b33f253f8147a3f261fc7072dc5
+      internalID: 431958494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_123
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 294
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eef75381c42abc49b07a5483c4cf791
+      internalID: -2096507700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_124
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 294
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4161b63027da44a8b2e2131cb83a3d
+      internalID: 515420978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_125
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1579c899987c4497811844726ea37
+      internalID: -915905246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_126
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 294
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b97bf4ad98e4a4f8ac4b091768608e
+      internalID: -847335900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_127
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 294
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e693b859443c44bf6e66414ad2ed4
+      internalID: -715925118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_128
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 294
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448443dc8bd4a94393326dedcfbab15
+      internalID: -661345940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad6e093664a984fa09df63d810c1bf
+      internalID: -1313629127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 222
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566ac173c842f74b8a39f6b658b2749
+      internalID: 17429682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_131
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 47
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05703d4d3b6ab4e8effa26c300a71e
+      internalID: 2064640355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_132
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 222
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a605ddf032e9f4fa4fba3c93d1a6df
+      internalID: 1178174897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b0dcdebba45444bf3ff031275fb23
+      internalID: -1853653752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 154
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b8a5c8d6a3d54da6d25a780658068
+      internalID: -1801046141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 154
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2774e46084d46546ba90acf2b3b2315
+      internalID: 2017328122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34c82f4281ab049a60fdead6fd225b
+      internalID: -632480770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_137
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 88
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaac2ca9c2efbf4ea0f4c27a5b1ed9c
+      internalID: -896962712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_138
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 154
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bbe6f2f2a889442af16f4f7f63b31c
+      internalID: -809988862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 154
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39414ea8fe504d47a2ca28076112fdd
+      internalID: -774348026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_140
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 154
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7581ed451c0095f4e93871f94d303c94
+      internalID: 475280472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab31de6790cf746bbb582e6124de70
+      internalID: 49655351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 88
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199da9862407bce4ca06ae9e21a5de4f
+      internalID: -689912159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_143
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c99bf6f19e9f94f86353ea09830c7a
+      internalID: -1290625635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 88
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1916534d12320d4c8882718c15f7a34
+      internalID: 973529154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_145
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 88
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb87f75f616a04fb2d84cf154423bd
+      internalID: -963976978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_146
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 88
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e416634a3a4c884c86bda0ff769d49a
+      internalID: 61442929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_147
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 88
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419af2b73aa47249b7548bea61e01fc
+      internalID: -1104097778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_148
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 88
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec7c8eb56e248408736848b2527aa8
+      internalID: 1665675873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_149
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 88
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf349966002bc44980d31b2ee12340
+      internalID: -1824270437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_150
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 88
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a523e7c922036743a0af600bcf7abc5
+      internalID: -596421766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b4620ef1bcb044b5a220e65d916f3
+      internalID: 1791028121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a53f97bf2aa242a3afaee67ce0beb
+      internalID: 1676205704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_153
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45d67e1d197ab4cbf3f277d1b9aff1
+      internalID: -5375912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df0abf2ac84284381d15fe1c016f4e
+      internalID: -1913223923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_155
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3709a24c3054543a78c670e1b4b638
+      internalID: 1625875580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1852df62781874b9b7a2614805c7d3
+      internalID: -131946044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_157
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9829fc6868a9444197eabe34f757568
+      internalID: 1393205551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_158
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a637f2279c143745bfe46c6068bf2f8
+      internalID: 1252227201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_159
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee94d353318f27408eaf4a858805450
+      internalID: -800393077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_160
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529082f07969b544952e7d5d20f8fa0
+      internalID: -1400393885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_161
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cdb9294d7dea1419f4b04423b7f5df
+      internalID: -117900273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_162
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375a4af1dcaf89409341729e1cf50f4
+      internalID: -2099048001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_163
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b284771b23654f8d5ac9a6d0e188a
+      internalID: -1867191574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_0: -1733141013
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_1: 755145068
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_10: 646219067
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_100: -1962466748
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_101: 1114735282
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_102: -738574922
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_103: -1286499288
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_104: 513299890
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_105: -1589059735
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_106: -1481188716
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_107: 1644296743
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_108: -233973785
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_109: -1104057480
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_11: 806973088
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_110: 1103336081
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_111: -1934334284
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_112: -1200158593
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_113: 2077549692
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_114: 104551194
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_115: 1869311703
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_116: -205376797
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_117: -1563137066
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_118: 1499245853
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_119: 2023311762
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_12: -698343282
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_120: 1586585833
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_121: -1255037856
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_122: 431958494
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_123: -2096507700
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_124: 515420978
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_125: -915905246
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_126: -847335900
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_127: -715925118
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_128: -661345940
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_129: -1313629127
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_13: -757243743
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_130: 17429682
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_131: 2064640355
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_132: 1178174897
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_133: -1853653752
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_134: -1801046141
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_135: 2017328122
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_136: -632480770
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_137: -896962712
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_138: -809988862
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_139: -774348026
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_14: 827702063
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_140: 475280472
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_141: 49655351
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_142: -689912159
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_143: -1290625635
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_144: 973529154
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_145: -963976978
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_146: 61442929
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_147: -1104097778
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_148: 1665675873
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_149: -1824270437
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_15: -650865399
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_150: -596421766
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_151: 1791028121
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_152: 1676205704
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_153: -5375912
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_154: -1913223923
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_155: 1625875580
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_156: -131946044
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_157: 1393205551
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_158: 1252227201
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_159: -800393077
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_16: -1384218247
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_160: -1400393885
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_161: -117900273
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_162: -2099048001
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_163: -1867191574
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_17: -1429159726
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_18: 920614976
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_19: -411878578
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_2: -645721155
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_20: 2084600994
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_21: -407611747
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_22: -2062353878
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_23: 1046236288
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_24: 1620828477
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_25: -149210502
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_26: 887251851
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_27: -182263129
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_28: -1120190516
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_29: 1181140846
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_3: 1029499081
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_30: 1473726644
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_31: 1611915561
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_32: -322553273
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_33: 2041405336
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_34: -370711520
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_35: -1257891816
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_36: -1480968004
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_37: 1497935797
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_38: 1244057580
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_39: -1082184904
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_4: -1577077912
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_40: 588864263
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_41: -1265236083
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_42: -1124066655
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_43: 407432404
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_44: -1715809990
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_45: -838796460
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_46: -1424990986
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_47: 80692773
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_48: 2088499082
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_49: -1536947286
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_5: -360220813
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_50: -1503540562
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_51: 280843175
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_52: 2141155514
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_53: 153724901
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_54: -696341098
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_55: -539184173
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_56: -1321404852
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_57: 705976992
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_58: -1588176104
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_59: -1421191936
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_6: 637356472
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_60: -867818202
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_61: -714200649
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_62: -845747179
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_63: -1761476078
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_64: 1357477346
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_65: -1191774312
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_66: 1162088160
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_67: -604135739
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_68: 564621950
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_69: -2100075101
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_7: -637299687
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_70: -1369265235
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_71: -366595422
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_72: -1191482057
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_73: 387651957
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_74: -1977457833
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_75: -1951084516
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_76: 1765831240
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_77: 1552544546
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_78: 1216876035
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_79: -2033776890
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_8: 1043092649
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_80: -615540003
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_81: -1978302208
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_82: 1943701590
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_83: -419996670
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_84: -1163290244
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_85: 948253639
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_86: -2071735016
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_87: -1537823387
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_88: 213524
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_89: -565251929
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_9: 228075083
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_90: 2042956160
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_91: 1745776752
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_92: 911289605
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_93: -1724656822
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_94: -93014974
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_95: -1997718783
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_96: 1629667918
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_97: -1984402501
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_98: -1644480766
+      Sega Genesis 32X - Dragon Ball Z Buyuu Retsuden JPN - Freeza Final Form_99: 822879016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

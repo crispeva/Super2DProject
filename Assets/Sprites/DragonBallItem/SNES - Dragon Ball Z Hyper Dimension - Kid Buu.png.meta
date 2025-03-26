@@ -1,0 +1,4245 @@
+fileFormatVersion: 2
+guid: 866cc25fdcefffd478dc3e9cb3f6f553
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2696
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339f5a930680e64896fcb275082064c
+      internalID: 1668344141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2640
+        width: 175
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca1a988fd41ff40bfa563aaaec8d08
+      internalID: -1772942982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2754
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8cf40d90278049832364253b38a78
+      internalID: 1261052811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2754
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1fd20dade3dc41bde29520d1d3f48
+      internalID: 731278230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2754
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47fc37043c4024da1ed6568ffede28
+      internalID: -2147335635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2754
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cebe4a1a0c5044d9c2e078ac8a7161
+      internalID: -1850826829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2754
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac11a10cddaf1c247a0e78f3f5a9aa73
+      internalID: -45932293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2755
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4487f567a8724a9ca9b252223782a
+      internalID: 1359668874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2561
+        width: 53
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6da5bf10a61064bab55da9ac3a3637
+      internalID: 309013635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2703
+        width: 86
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a3c663f6f60742938c137b658c429
+      internalID: -351596483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 861
+        width: 49
+        height: 1874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb220e2cfdcff41bf3e5aa0253d5d5
+      internalID: -2057694607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0530c4c8ccd58a44faf4183e8d8db036
+      internalID: -1952909313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2640
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3ba6d139e92d4dbc33f4538098c5c
+      internalID: 1843326284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2561
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ef4a6ef96b7c49b6db0b433b3ed6b
+      internalID: 442941831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2573
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80abecb89e43bc429c6926919e24721
+      internalID: -1488038017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2561
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84a70ed9bb3fb43a99bf9b1503e621
+      internalID: -1179808760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2498
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eed9d9cc46ad144aa985d8a6515c0a
+      internalID: 2122860730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2498
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7cceae5e4de9a48886849596f5cebf
+      internalID: -994098552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2498
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47451f4856573a54c9ed5575c4ae26fd
+      internalID: 1682540177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2498
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de177dbe6a46d40bd1529c4cae4f03
+      internalID: 1363879213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2498
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b02de2d96f474e9a7b2663b2cf32c
+      internalID: 1431163921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2439
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed650a954897b4eb844f75cc4cce71
+      internalID: -146023792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2297
+        width: 60
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44001238911470949bb94b7c6db8d274
+      internalID: 2066463014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2378
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4b01ea5c53e442bc031756f90d211
+      internalID: 865705960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2439
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5fff492c50964596391d9e369db5e
+      internalID: -721794717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2378
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c88140a3a33814695f9f8bc99b10c9
+      internalID: 992274257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2378
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081c9cd46664c84b957536122fc8ef0
+      internalID: -999269972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2022
+        width: 84
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0386946a8f64d82488284b26cc1d0300
+      internalID: -159692500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2297
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38731215c5675c54494409e0acfbdcf3
+      internalID: -115020955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2297
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f43bea0e277dc469ccd3beaa284925
+      internalID: -1412069773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2297
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af9c9b0692bc6c4f9ff27ec9dc713e5
+      internalID: -437191720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2297
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faed3c81abf36942a36059b2261ef32
+      internalID: 1424745812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2207
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ce3782c50333f45b09ecbf1ef7499a
+      internalID: 1238516251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2154
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d437800e1818044b9b7f1506394d596
+      internalID: -734939009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2154
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12573e011643534ab060de1130158d2
+      internalID: -2016068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2154
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d0262f4ac013418cc04365f3df314
+      internalID: -366812188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2154
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f421338269baad4382b1adbe311a919
+      internalID: 449863092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2154
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76397c1335c50764698d8b208c25db64
+      internalID: 1586338830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2089
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b43878596dbe541a71db31022cc824
+      internalID: 222488134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2089
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de96dafff15469478004ed2b90427aa
+      internalID: 192876294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49df50d424991b64b8d65bfcd39efae4
+      internalID: -800498564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2089
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb520aa35495b74418afd1e8abb3df29
+      internalID: 883245677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2022
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b6618319d97747aa64dddbd26aaae
+      internalID: 282790114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2022
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff411825f076dc44b2f967e9c1d97a5
+      internalID: -1895371447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2022
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2d0f5fe28f953408beef069d5c56e4
+      internalID: 2083332889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2022
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ebcdcb47790b42ac095110213681b
+      internalID: -1868853869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2022
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e179c3aad2ca646b5356de63be69c5
+      internalID: 1078056008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1948
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547690d7d4594e342afaaf5b8962653e
+      internalID: 1732553982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1882
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33bb5cce21dd9347bcfaa3f39671daa
+      internalID: -2071445025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1948
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6771728a22ae8d44af62317c3315846
+      internalID: 917862452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1948
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeb68ac5df89e44f87c588871d3e72c
+      internalID: -686388166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1882
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb618a63719114a976387cd00f7700
+      internalID: 1832375452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1732
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba17432c0f6164dbdc1493875352c9
+      internalID: 1209581793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1818
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51443eeee90fbcf429d6bb9fe8f89e87
+      internalID: -512533101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d942da82337c1641bc1acba5643b203
+      internalID: -1607400895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1732
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e633e09134e988428405ce093562419
+      internalID: 872869566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1732
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301fba73aeb1544f8c6b51a871e230c
+      internalID: -1019007172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1732
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e42443ac85e64e829ab6a617c0594
+      internalID: 184249323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3ba622bc11814ca9ccdf00897f238
+      internalID: -1149356689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1668
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299408c935cddc0499f4a82ec5e2e532
+      internalID: -1293361008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1604
+        width: 60
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7f578fe3bcc6449702095597a3b42
+      internalID: -1241263975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1668
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d435abe48fd941954a7c8b4a5a8b7
+      internalID: -131041456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_62
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1668
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84210bce9956740a8ec046447f4582
+      internalID: -1365596761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 70
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca97747d454f944fa7bd9e68948b217
+      internalID: 1038470664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1505
+        width: 126
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb12301a3377e40a968fe1bb1dd1a5
+      internalID: 501384339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1505
+        width: 93
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f788b52684064a9807adc2cc46d7e
+      internalID: 2073030666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1386
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f82a12225cfd4e8e36f72674fa5d1
+      internalID: 558134428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1450
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d51948af5cb54a8159ae7d5bb90a8
+      internalID: 586470676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1450
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e547a23bd445f94cb1bc615773cef05
+      internalID: -2124301119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1450
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e92dd94ce88ef44a58e3e78f3bb52e
+      internalID: 132942660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1450
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d02bc6db21f984c853be9024b843a2
+      internalID: -1028897034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1450
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ad825af1218f438619443777e2ae2
+      internalID: -1812586968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1450
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240c131d5585fb4e8d2a18cfb91bafa
+      internalID: -1980226632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1241
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f790ac8129954dadd94b6f4c4ab71
+      internalID: 32963042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1322
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae920ec723eb294b8f9353883266ed9
+      internalID: -987282493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_75
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1386
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b84a49e24bdf4eb7fa8d1da258d58
+      internalID: -1007680670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1322
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da51dcbb9240a44eb813c27e4021dc3
+      internalID: -1497276332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1322
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20540f6155dac174298b2e0ea32d1c4b
+      internalID: -2034387097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7935d2353405449a6df948674c4be
+      internalID: -1525908793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1170
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd9f6edba7bc341831536ef3c8409d
+      internalID: -1375247513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1241
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c01bc3b2a93934594c8fb07b5af957
+      internalID: 412534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1170
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10b2a98074396469705d1366209e99
+      internalID: 1022800441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1170
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04960d34b7204ac4a9f54770c4964220
+      internalID: -1963056019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31a49100fdb8c74cba4bb8945018ba6
+      internalID: -1137533724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1112
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06597cd6469d0ea48a032c6ccdac90e2
+      internalID: 65730992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6977d0d639054aab5e645b91d397e
+      internalID: 1414152290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_86
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1112
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd180272c8ad249b7874e31d826f78
+      internalID: -1778489261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 986
+        width: 56
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7574a4f31e5b364fab867f84d5fb129
+      internalID: -1820106659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1112
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bdd320c019d664e89f50e72d8cc13e
+      internalID: 108024512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f6046c98ca6447aa6bbd59924158b
+      internalID: 1475954968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1050
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd0ca6726e5a64588356ef50e79d83
+      internalID: -1787016718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1050
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fddd72dc8ed3c64ba39e17c85f147cb
+      internalID: 187174435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1050
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a448ff1e105e47a1d689563e116ce
+      internalID: 1011164550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1050
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6c0af6894a284f813cbab6ac460ba
+      internalID: -1444970042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1050
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d186673055474ebef107fa340626e
+      internalID: 1644127170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1051
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171323c448a8f2940885f78f1477aaea
+      internalID: -1348298784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_96
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1048
+        width: 112
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5dc473fc813247b4ad9cce7e4ab5e
+      internalID: 111659111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_97
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1050
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e3952bbeb4cf4180490b53a3abc13
+      internalID: 996277287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8c8a8f9d90b84b8912a709b301dd9
+      internalID: -874601305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 986
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e6cb246c56e2d4fa255b750b5884ea
+      internalID: -1316611452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 986
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed3ca0bdce4a443b289b9dbad7239c
+      internalID: -655256826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_101
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 986
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f868b248b542c1643a038359ba568c54
+      internalID: 1860586100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 986
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa5c3a7585a5244aeb0ffadf611108
+      internalID: -110426515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_103
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 986
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fc5b9be223fe04791c58c2c3abdea2
+      internalID: 1937602007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 986
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901d4735604cc74b84fc1ef41bd9fb7
+      internalID: -709142470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_105
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 986
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ca84fd96c355e4a82aa26b94930392
+      internalID: -2133141189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 844
+        width: 62
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185230f810df61248ad7e5344f260374
+      internalID: -402514608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 915
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff30474c8c0e7e4da0ae1a6738df91d
+      internalID: -1113075343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 915
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483c9cdc4bd34848ab3c489813a3b3f
+      internalID: 131691786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01299281f1c05e2499838757cae0d763
+      internalID: -1269596290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_110
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 859
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7003d94f34dd409028270a0141850
+      internalID: 1384885196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 858
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8f60624af8884599afe09ed117044
+      internalID: 1961164021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_112
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 858
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e372eabf5f507499532750079e8bb2
+      internalID: 752955715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_113
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 856
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15b14b1cc30da4f8f73087c6c44542
+      internalID: 1832345902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 854
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae4257a715b1349adbfc3704680e1b
+      internalID: -890728703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 787
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6c8ddcb44070438d051a5d5d043ea
+      internalID: 164911720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_116
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 844
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5537ccb079ae468d6a864f988a658
+      internalID: 856539279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 844
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441590152bce154885743b5bf043689
+      internalID: -770784581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_118
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 844
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4911fc558e703459c6e69ba8ab6edd
+      internalID: 760364405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_119
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 844
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea37da4d74f9964fb4e810eb949d529
+      internalID: 1559213195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_120
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 787
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b0260c813813488a51c4a9087a5e9
+      internalID: 442493153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_121
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 787
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e3097998f86c43a42ded88ac13122
+      internalID: -1329358880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7bbd9fe22c775449a0ed57e1b15b11
+      internalID: 593438997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_123
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 798
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd12840448187439c4463ec87363f0
+      internalID: -81277166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_124
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 798
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c00054dde664b049974abaa8b2a969c
+      internalID: -858524587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_125
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 797
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be4736c71f360428f83f1c9f5d41d6
+      internalID: 1486731130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 797
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565953224ebfb24397deced3e1bac23
+      internalID: -1029497950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 797
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216598b3f14f0c4e9ae68e8e4015e19
+      internalID: -977060241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_128
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 797
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a1a8eac4ca2649967d1981d59e971
+      internalID: -907644260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_129
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 640
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7fa64344f7d64185ef21bdc29dd05
+      internalID: -835973798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 787
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d576b230af024284e518d38779299
+      internalID: -440149763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 787
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d3adff6e09dd4cabe2f1277b40d1b
+      internalID: -1280942617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 787
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4558ea409606664892bc73bdc62a597
+      internalID: 1787312115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_133
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 787
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae43797ca584984ebe057e30a5d1e70
+      internalID: 1443631589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 722
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92900b1c74171e4296c17db9277556f
+      internalID: 295128329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 722
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136607c693ff9b243b5b2b1a955433d6
+      internalID: -1133096126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_136
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 722
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d037bb3c0906f7647b4185ba6911eda2
+      internalID: -1120471620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_137
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 722
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f7f16e5389b8469e1fed2121df8af
+      internalID: 1155930620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_138
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 655
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff743f577a3f4eb4ca7f6ddbf2290eee
+      internalID: -609868441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_139
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 722
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8f2077c81c6b40b6bf0e530c4281b
+      internalID: -2021583601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_140
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 722
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd619655451434ea8d21f19134764e
+      internalID: -736440900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_141
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 722
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e739224882bb45b187f08f93432cc
+      internalID: 732489548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed46a0962c6720e43a38816a186d3b1c
+      internalID: 1714375210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_143
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 597
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3280a699259dd4d8dcd1131ac61bba
+      internalID: 1885067124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_144
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 655
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3105990c7f5e47a5196b4c10dd02d
+      internalID: 1631930974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_145
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 655
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea1e3604312db46a8072bd9e8e1695
+      internalID: -1862392463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_146
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 655
+        width: 113
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5ff7e5c7844e45a22cb3e960a3975
+      internalID: -2023448843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_147
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 655
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48815d8e35261e4f9beb9ad659bc435
+      internalID: -1870801998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_148
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 597
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c7dafbb2445f48a2d692482d94195
+      internalID: -148803314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 597
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95faa853e4191244ab8043368b6e7ff8
+      internalID: -191085239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_150
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 427
+        width: 141
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e46be08b86ebd4b83a501ce472e38c
+      internalID: 868174076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 597
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4df0661b0db2f47942cddf67a5953c
+      internalID: 2036584918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_152
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 598
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3dd84d509b1044a8f0e76b30eca271
+      internalID: 546204055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 163
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad915dfbfaa6fc4da32263f43cbb28b
+      internalID: -1496351812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_154
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 531
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c29a28926ec964f99a299f7109478b
+      internalID: 1474272267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_155
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 427
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda33d3952791db4ea89d6a2c19f8ec4
+      internalID: 941878086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_156
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 531
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074dd96799e4e8e449195e5c9cec3176
+      internalID: -1920842172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_157
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 427
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9d701a9d7d2c43a65fe91f706738f
+      internalID: 180250525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_158
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 531
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32071ee293ff244399969c5d518ad31
+      internalID: -587344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_159
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 350
+        width: 170
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e3024c786f8a4fb1130388dfc7535
+      internalID: -1290999574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_160
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 313
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f4084f25a82d544a33837d2b65dcf1
+      internalID: -511113829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_161
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 313
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bd3ad8c3510c442abc581938085d15
+      internalID: -1330340681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_162
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 313
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab12edc76f654545b9d9973926d4761
+      internalID: 1733826966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_163
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 313
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079644f4d3d74a4d926f96b15996fa7
+      internalID: -1044712948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 313
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52378751aac461468e135822c8cf593
+      internalID: 812786719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 313
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117128a0e885f4459c33a28f666a5a2
+      internalID: -1547165387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_166
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d3276ab5f36ca47b5ccb0d3dd7dc06
+      internalID: -510256423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_167
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 192
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2776585064d96540990b36b3fca5fc4
+      internalID: 1304938673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_168
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4f3666aa108b46a812a9aca02bd5d
+      internalID: 316974582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_169
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75739918ffe333f4a8bd3def3e1f412a
+      internalID: -1300279083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_170
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 135
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30557446bd4b1cd4aaf702b60514b6bf
+      internalID: 1772736510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_171
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 112
+        width: 40
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e4244d005089448d737b3cf169943
+      internalID: 231201302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_172
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 46
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1ca0df42d8b341a7e834523149ae9
+      internalID: 1951784274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 59, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98e7d695ec4f64cbfda675203bd8a8
+      internalID: 1003752860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_174
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e1fe46e7c96c34397ec10f993e8899
+      internalID: -1042202484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_175
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 135
+        width: 180
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f036979f591d0942822b65e4226a2f7
+      internalID: 408129350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_176
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 135
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce70225ac31f1479ceb67e6230f447
+      internalID: -571382485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_177
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 135
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185d1607b298f2478351caa875dba2a
+      internalID: 312249443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61802e62a1e69cd48a527fa5081ee0f8
+      internalID: -944847508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_179
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 58
+        width: 118
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ba84522c1b59409eea75aeab8827f
+      internalID: 1239020034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870f0aacf7e60641a794c7f311f3941
+      internalID: 2063855368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faba89fd6c47344e91e104b8818e15b
+      internalID: -799560023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_182
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d062bc3f59a1e604daa75cd682caef16
+      internalID: 1918422021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_183
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 25
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e8511145ee7244aba42125baed37c
+      internalID: 1108034486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_184
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 16
+        width: 109
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e294abe05801aa40841e63aca75dab9
+      internalID: -900630897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Dragon Ball Z Hyper Dimension - Kid Buu_185
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 100
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3630ff0eab5104787b24af0070c22c
+      internalID: -641054011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_0: 1668344141
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_1: -1772942982
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_10: -2057694607
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_100: -655256826
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_101: 1860586100
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_102: -110426515
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_103: 1937602007
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_104: -709142470
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_105: -2133141189
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_106: -402514608
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_107: -1113075343
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_108: 131691786
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_109: -1269596290
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_11: -1952909313
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_110: 1384885196
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_111: 1961164021
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_112: 752955715
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_113: 1832345902
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_114: -890728703
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_115: 164911720
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_116: 856539279
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_117: -770784581
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_118: 760364405
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_119: 1559213195
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_12: 1843326284
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_120: 442493153
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_121: -1329358880
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_122: 593438997
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_123: -81277166
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_124: -858524587
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_125: 1486731130
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_126: -1029497950
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_127: -977060241
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_128: -907644260
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_129: -835973798
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_13: 442941831
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_130: -440149763
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_131: -1280942617
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_132: 1787312115
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_133: 1443631589
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_134: 295128329
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_135: -1133096126
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_136: -1120471620
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_137: 1155930620
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_138: -609868441
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_139: -2021583601
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_14: -1488038017
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_140: -736440900
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_141: 732489548
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_142: 1714375210
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_143: 1885067124
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_144: 1631930974
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_145: -1862392463
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_146: -2023448843
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_147: -1870801998
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_148: -148803314
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_149: -191085239
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_15: -1179808760
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_150: 868174076
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_151: 2036584918
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_152: 546204055
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_153: -1496351812
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_154: 1474272267
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_155: 941878086
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_156: -1920842172
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_157: 180250525
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_158: -587344308
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_159: -1290999574
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_16: 2122860730
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_160: -511113829
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_161: -1330340681
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_162: 1733826966
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_163: -1044712948
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_164: 812786719
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_165: -1547165387
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_166: -510256423
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_167: 1304938673
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_168: 316974582
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_169: -1300279083
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_17: -994098552
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_170: 1772736510
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_171: 231201302
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_172: 1951784274
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_173: 1003752860
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_174: -1042202484
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_175: 408129350
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_176: -571382485
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_177: 312249443
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_178: -944847508
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_179: 1239020034
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_18: 1682540177
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_180: 2063855368
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_181: -799560023
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_182: 1918422021
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_183: 1108034486
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_184: -900630897
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_185: -641054011
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_19: 1363879213
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_2: 1261052811
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_20: 1431163921
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_21: -146023792
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_22: 2066463014
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_23: 865705960
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_24: -721794717
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_25: 992274257
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_26: -999269972
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_27: -159692500
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_28: -115020955
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_29: -1412069773
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_3: 731278230
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_30: -437191720
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_31: 1424745812
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_32: 1238516251
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_33: -734939009
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_34: -2016068499
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_35: -366812188
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_36: 449863092
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_37: 1586338830
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_38: 222488134
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_39: 192876294
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_4: -2147335635
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_40: -800498564
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_41: 883245677
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_42: 282790114
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_43: -1895371447
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_44: 2083332889
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_45: -1868853869
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_46: 1078056008
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_47: 1732553982
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_48: -2071445025
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_49: 917862452
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_5: -1850826829
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_50: -686388166
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_51: 1832375452
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_52: 1209581793
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_53: -512533101
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_54: -1607400895
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_55: 872869566
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_56: -1019007172
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_57: 184249323
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_58: -1149356689
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_59: -1293361008
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_6: -45932293
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_60: -1241263975
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_61: -131041456
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_62: -1365596761
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_63: 1038470664
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_64: 501384339
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_65: 2073030666
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_66: 558134428
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_67: 586470676
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_68: -2124301119
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_69: 132942660
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_7: 1359668874
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_70: -1028897034
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_71: -1812586968
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_72: -1980226632
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_73: 32963042
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_74: -987282493
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_75: -1007680670
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_76: -1497276332
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_77: -2034387097
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_78: -1525908793
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_79: -1375247513
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_8: 309013635
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_80: 412534851
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_81: 1022800441
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_82: -1963056019
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_83: -1137533724
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_84: 65730992
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_85: 1414152290
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_86: -1778489261
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_87: -1820106659
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_88: 108024512
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_89: 1475954968
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_9: -351596483
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_90: -1787016718
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_91: 187174435
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_92: 1011164550
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_93: -1444970042
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_94: 1644127170
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_95: -1348298784
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_96: 111659111
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_97: 996277287
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_98: -874601305
+      SNES - Dragon Ball Z Hyper Dimension - Kid Buu_99: -1316611452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
