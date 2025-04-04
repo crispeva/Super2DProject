@@ -10,7 +10,6 @@ public class UISettings : MonoBehaviour
 	#endregion
 
 	#region Fields
-
 	[SerializeField] Button _closeButton;
 	[SerializeField] TMP_Dropdown _qualityDrop;
 	[SerializeField] Toggle _vsyncToggle;
