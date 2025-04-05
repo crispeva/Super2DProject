@@ -13,10 +13,13 @@ public class UIGraphicsDB : MonoBehaviour
     [SerializeField] Button _settingsbutton;
     [SerializeField] GameObject _settingsPanel;
     [SerializeField] Toggle _vsyncToggle;
+    [SerializeField] Toggle _fullscreenToggle;
     [SerializeField] Toggle _noShadowToggle;
     [SerializeField] TMP_Dropdown _qualityDrop;
     [SerializeField] TMP_Dropdown _resolutionDrop;
-    Resolution[] resolution;
+    [SerializeField] Slider _brightnessDrop;
+    private Resolution[] resolutions;
+    private CanvasGroup _canvasGroup;
 
     #endregion
 
@@ -25,13 +28,22 @@ public class UIGraphicsDB : MonoBehaviour
     void Start()
     {
         //Events
-        //Button click
+        //Button settings
         _settingsbutton.onClick.AddListener(ToggleSettings);
+        //VSync
         _vsyncToggle.onValueChanged.AddListener(SetVSync);
+        //No Shadows
         _noShadowToggle.onValueChanged.AddListener(SetNoShadows);
+        //Quality
         _qualityDrop.onValueChanged.AddListener(SetQuality);
+        //Resolutions
         _resolutionDrop.onValueChanged.AddListener(SetResolution);
+        //Fullscreen
+        _fullscreenToggle.onValueChanged.AddListener(FullScreen);
+        //Brightness
+        _brightnessDrop.onValueChanged.AddListener(SetTransparency);
         InitializeDropDownQuality();
+        InitializeDropDownResolution();
     }
 
     #endregion
@@ -44,6 +56,13 @@ public class UIGraphicsDB : MonoBehaviour
     {
         // Alterna el estado activo del panel de configuración
         _settingsPanel.SetActive(!_settingsPanel.activeSelf);
+    }
+    private void SetTransparency(float value)
+    {
+        if (_canvasGroup != null)
+        {
+            _canvasGroup.alpha = value;
+        }
     }
     private void SetVSync(bool stateOn)
     {
@@ -72,13 +91,37 @@ public class UIGraphicsDB : MonoBehaviour
     {
         QualitySettings.SetQualityLevel(index, true);
     }
+    private void InitializeDropDownResolution()
+    {
+        resolutions = Screen.resolutions;
+        List<string> options = new List<string>();
+
+        foreach (Resolution resolution in resolutions)
+        {
+            options.Add(resolution.width + " x " + resolution.height);
+        }
+
+        _resolutionDrop.ClearOptions();
+        _resolutionDrop.AddOptions(options);
+
+        // Configura la resolución actual como la opción seleccionada
+        Resolution currentResolution = Screen.currentResolution;
+        int currentIndex = System.Array.FindIndex(resolutions, r => r.width == currentResolution.width && r.height == currentResolution.height);
+        _resolutionDrop.value = currentIndex;
+        _resolutionDrop.RefreshShownValue();
+    }
     private void SetResolution(int index)
     {
-        // Aquí puedes implementar la lógica para cambiar la resolución
-        // dependiendo de la opción seleccionada en el dropdown.
-        // Por ejemplo:
-        Resolution [] resolution = resolutions[index];
-        Screen.SetResolution(_resolutionDrop.[index].width, resolutions[index].height, Screen.fullScreen);
+        Resolution resolution = resolutions[index];
+        Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
+    }
+
+    private void  FullScreen(bool fullscreen)
+    {
+        if (fullscreen)
+            Screen.fullScreen = true;
+        else
+            Screen.fullScreen = false;
     }
     #endregion
 }
