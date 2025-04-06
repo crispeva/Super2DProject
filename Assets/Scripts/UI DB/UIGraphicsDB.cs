@@ -17,9 +17,9 @@ public class UIGraphicsDB : MonoBehaviour
     [SerializeField] Toggle _noShadowToggle;
     [SerializeField] TMP_Dropdown _qualityDrop;
     [SerializeField] TMP_Dropdown _resolutionDrop;
-    [SerializeField] Slider _brightnessDrop;
+    [SerializeField] Slider _particlesSlider;
     private Resolution[] resolutions;
-    private CanvasGroup _canvasGroup;
+    
 
     #endregion
 
@@ -40,8 +40,8 @@ public class UIGraphicsDB : MonoBehaviour
         _resolutionDrop.onValueChanged.AddListener(SetResolution);
         //Fullscreen
         _fullscreenToggle.onValueChanged.AddListener(FullScreen);
-        //Brightness
-        _brightnessDrop.onValueChanged.AddListener(SetTransparency);
+        //Particles resolution
+        _particlesSlider.onValueChanged.AddListener(SetParticleResolution);
         InitializeDropDownQuality();
         InitializeDropDownResolution();
     }
@@ -57,13 +57,7 @@ public class UIGraphicsDB : MonoBehaviour
         // Alterna el estado activo del panel de configuración
         _settingsPanel.SetActive(!_settingsPanel.activeSelf);
     }
-    private void SetTransparency(float value)
-    {
-        if (_canvasGroup != null)
-        {
-            _canvasGroup.alpha = value;
-        }
-    }
+
     private void SetVSync(bool stateOn)
     {
         if (stateOn)
@@ -122,6 +116,12 @@ public class UIGraphicsDB : MonoBehaviour
             Screen.fullScreen = true;
         else
             Screen.fullScreen = false;
+    }
+    private void SetParticleResolution(float value)
+    {
+        // Aquí puedes ajustar la resolución de los sistemas de partículas según el valor del slider
+        // Por ejemplo, puedes usar el valor para establecer la calidad de las partículas
+         QualitySettings.particleRaycastBudget =(int)value;
     }
     #endregion
 }
