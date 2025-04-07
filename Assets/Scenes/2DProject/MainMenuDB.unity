@@ -1679,10 +1679,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 770310077}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.008782004, y: 0.8866667}
-  m_AnchorMax: {x: 0.078, y: 0.97333336}
-  m_AnchoredPosition: {x: -1.3928223, y: 1.1279297}
-  m_SizeDelta: {x: 5.2061005, y: 4.3143997}
+  m_AnchorMin: {x: 0.008782004, y: 0.8783334}
+  m_AnchorMax: {x: 0.07428183, y: 0.97333336}
+  m_AnchoredPosition: {x: 2, y: 2.5}
+  m_SizeDelta: {x: -5.5333004, y: 13.071199}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &307749431
 MonoBehaviour:
@@ -1697,14 +1697,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.2692802, g: 0.12967247, b: 0.5849056, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: d582b7a53b5ca4244a3e45281fdd22c8, type: 3}
+  m_Texture: {fileID: 2800000, guid: a05e8207fbd4aaa4d93299ae865ef061, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -3232,7 +3232,7 @@ AudioSource:
   m_Volume: 0.479
   m_Pitch: 1
   Loop: 0
-  Mute: 1
+  Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
