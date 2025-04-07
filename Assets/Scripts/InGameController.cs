@@ -12,7 +12,7 @@ public class InGameController : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyUp(KeyCode.Escape))
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("MainMenuDB");
     }
 	#endregion
 }

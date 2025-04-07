@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class UIGraphicsDB : MonoBehaviour
@@ -19,8 +20,9 @@ public class UIGraphicsDB : MonoBehaviour
     [SerializeField] TMP_Dropdown _resolutionDrop;
     [SerializeField] Slider _particlesSlider;
     private Resolution[] resolutions;
+    private bool isOpen = false;
+    [SerializeField] Animator settingsButtonAnimator;
     
-
     #endregion
 
     #region Unity Callbacks
@@ -54,6 +56,9 @@ public class UIGraphicsDB : MonoBehaviour
     #region Private Methods
     private void ToggleSettings()
     {
+        isOpen = !isOpen;
+
+        settingsButtonAnimator.SetBool("IsOpen", isOpen);
         // Alterna el estado activo del panel de configuración
         _settingsPanel.SetActive(!_settingsPanel.activeSelf);
     }
@@ -123,5 +128,7 @@ public class UIGraphicsDB : MonoBehaviour
         // Por ejemplo, puedes usar el valor para establecer la calidad de las partículas
          QualitySettings.particleRaycastBudget =(int)value;
     }
+
+    
     #endregion
 }
